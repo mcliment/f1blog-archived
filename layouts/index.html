@@ -1,5 +1,4 @@
-{{ partial "header" . }}
-
+{{ define "main" }}
 <div id="content">
 	{{ range sort .Paginator.Pages "Date" "desc" }}
 	<div class="post">
@@ -71,7 +70,4 @@
     	{{ end }}
 	</div>
 </div>
-
-{{ partial "sidebar" . }}
-
-{{ partial "footer" . }}
+{{ end }}

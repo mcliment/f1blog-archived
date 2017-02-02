@@ -1,9 +1,8 @@
-{{ define "title" }} :: {{ index $.Site.Data.categories .Title }}{{ end }}
+{{ define "title" }} :: {{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}{{ else }}{{ index $.Site.Data.tags .Title }}{{ end }}{{ end }}
 
-{{ partial "header" . }}
-
+{{ define "main" }}
 <div id="content" class="narrowcolumn">
-    <h2>{{ index $.Site.Data.categories .Title }}</h2>
+    <h2>{{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}{{ else }}{{ index $.Site.Data.tags .Title }}{{ end }}</h2>
     {{ if false }}
     <?php /* If this is a category archive */ if (is_category()) { ?>				
     <h2 class="pagetitle">Archive for the '<?php echo single_cat_title(); ?>' Category</h2>
@@ -92,7 +91,4 @@
     	{{ end }}
 	</div>
 </div>
-
-{{ partial "sidebar" . }}
-
-{{ partial "footer" . }}
+{{ end }}

@@ -1,4 +1,6 @@
-{{ partial "header" . }}
+{{ define "title" }} :: {{ .Title }}{{ end }}
+
+{{ define "main" }}
 <div id="content" class="widecolumn">
     <div class="navigation">
         {{ if .Position.PrevInSection }}
@@ -40,5 +42,4 @@
     {{ partial "comments" . }}
 	
 </div>
-
-{{ partial "footer" . }}
+{{ end }}
