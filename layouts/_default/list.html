@@ -1,0 +1,98 @@
+{{ define "title" }} :: {{ index $.Site.Data.categories .Title }}{{ end }}
+
+{{ partial "header" . }}
+
+<div id="content" class="narrowcolumn">
+    <h2>{{ index $.Site.Data.categories .Title }}</h2>
+    {{ if false }}
+    <?php /* If this is a category archive */ if (is_category()) { ?>				
+    <h2 class="pagetitle">Archive for the '<?php echo single_cat_title(); ?>' Category</h2>
+    
+    <?php /* If this is a daily archive */ } elseif (is_day()) { ?>
+    <h2 class="pagetitle">Archive for <?php the_time('F jS, Y'); ?></h2>
+    
+    <?php /* If this is a monthly archive */ } elseif (is_month()) { ?>
+    <h2 class="pagetitle">Archive for <?php the_time('F, Y'); ?></h2>
+
+    <?php /* If this is a yearly archive */ } elseif (is_year()) { ?>
+    <h2 class="pagetitle">Archive for <?php the_time('Y'); ?></h2>
+    
+    <?php /* If this is a search */ } elseif (is_search()) { ?>
+    <h2 class="pagetitle">Search Results</h2>
+    
+    <?php /* If this is an author archive */ } elseif (is_author()) { ?>
+    <h2 class="pagetitle">Author Archive</h2>
+
+    <?php /* If this is a paged archive */ } elseif (isset($_GET['paged']) && !empty($_GET['paged'])) { ?>
+    <h2 class="pagetitle">Blog Archives</h2>
+    {{ end }}
+
+    <div class="navigation">
+		{{ if .Paginator.HasNext }}
+		<div class="alignleft">
+			<a rel="next" href="{{ .Paginator.Next.URL | absURL }}">&laquo; Entradas anteriores</a>
+		</div>
+    	{{ end }}
+    	{{ if .Paginator.HasPrev }}
+		<div class="alignright">
+			<a rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">Entradas siguientes &raquo;</a>
+		</div>
+    	{{ end }}
+	</div>
+
+    {{ range sort .Paginator.Pages "Date" "desc" }}
+	<div class="post">
+		<h3><a href="{{ .Permalink }}" rel="bookmark" title="Permalink a {{ .Title }}">{{ .Title }}</a></h3>
+		<small>Publicado el {{ .Date.Day }} de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }} por <strong>{{ .Params.Author }}</strong></small>
+		
+		<div class="entry">
+			{{ .Content }}
+		</div>
+
+		{{ if isset .Params "tag" }}
+		{{ $tagsLen := len .Params.tag }}
+		{{ if gt $tagsLen 0 }}
+		<p class="postmetadata">
+			Etiquetas:
+			{{ range $k, $v := .Params.tag }}
+			{{ $url := printf "tag/%s" (. | urlize | lower) }}
+			<a rel="tag" href="{{ $url | absURL }}">{{ . }}</a>{{ if lt $k (sub $tagsLen 1) }}, {{ end }}
+			{{ end }}
+		</p>
+		{{ end }}
+        {{ end }}
+
+		{{ if isset .Params "category" }}
+        {{ $categoriesLen := len .Params.category }}
+        {{ if gt $categoriesLen 0 }}
+        <p class="postmetadata">
+			Categorías:
+                {{ range $k, $v := .Params.category }}
+                {{ $url := printf "category/%s" (. | urlize | lower) }}
+                <a rel="category tag" href="{{ $url | absURL }}">{{ . }}</a>{{ if lt $k (sub $categoriesLen 1) }}, {{ end }}
+                {{ end }}
+		</p>
+		{{ end }}
+        {{ end }}
+
+		TODO :: Comments
+	</div>
+	{{ end }}
+
+    <div class="navigation">
+		{{ if .Paginator.HasNext }}
+		<div class="alignleft">
+			<a rel="next" href="{{ .Paginator.Next.URL | absURL }}">&laquo; Entradas anteriores</a>
+		</div>
+    	{{ end }}
+    	{{ if .Paginator.HasPrev }}
+		<div class="alignright">
+			<a rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">Entradas siguientes &raquo;</a>
+		</div>
+    	{{ end }}
+	</div>
+</div>
+
+{{ partial "sidebar" . }}
+
+{{ partial "footer" . }}

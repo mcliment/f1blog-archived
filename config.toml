@@ -1,0 +1,24 @@
+baseurl = "http://f1blog.climens.net"
+# spanish all the things
+languageCode = "es"
+defaultContentLanguage = "es"
+# To keep taxonomies / titles like Wordpress
+preserveTaxonomyNames = true
+#pluralizeListTitles = false
+removePathAccents = true
+enableEmoji = true
+
+title = "1 día en las carreras"
+
+paginate = 3
+
+[taxonomies]
+tags = "tag"
+category = "category"
+
+[params]
+subtitle = "Blog independiente sobre Formula 1"
+rss = "http://feeds.feedburner.com/1DiaEnLasCarreras"
+
+[permalinks]
+post = "/:year/:month/:day/:slug"

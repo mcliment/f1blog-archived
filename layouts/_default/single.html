@@ -1,0 +1,44 @@
+{{ partial "header" . }}
+<div id="content" class="widecolumn">
+    <div class="navigation">
+        {{ if .Position.PrevInSection }}
+        {{ with .Position.PrevInSection }}
+        <div class="alignleft"><a rel="prev" href="{{ .Permalink }}">&laquo; {{ .Title }}</a></div>
+        {{ end }}
+        {{ end }}
+        {{ if .Position.NextInSection }}
+        {{ with .Position.NextInSection }}
+        <div class="alignright"><a rel="next" href="{{ .Permalink }}">{{ .Title }} &raquo;</a></div>
+        {{ end }}
+        {{ end }}
+    </div>
+    <div class="post" id="post-<?php the_ID(); ?>">
+        <h2><a href="{{ .Permalink }}" rel="bookmark" title="Enlace permanente: {{ .Title }}">{{ .Title }}</a></h2>
+
+        <div class="entrytext">
+            {{ .Content }}
+
+            <p class="postmetadata alt">
+                <small>
+                    Este post fue escrito
+                    el {{ index $.Site.Data.weekdays (printf "%d" .Date.Weekday) }} {{ .Date.Day }} 
+                    de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }} 
+                    a las {{ dateFormat "15:04" .Date }}
+                    en la categoría de
+                    {{ if isset .Params "category" }}
+                    {{ $categoryCount := len .Params.category }}
+                    {{ range $idx, $category := .Params.category }}
+                        {{ $url := printf "category/%s" ($category | urlize | lower) }}
+                        <a rel="category tag" href="{{ $url | absURL }}">{{ $category }}</a>{{ if lt $idx (sub $categoryCount 1) }}, {{ end }}
+                    {{ end }}
+                    {{ end }}
+                </small>
+            </p>
+        </div>
+    </div>
+		
+    {{ partial "comments" . }}
+	
+</div>
+
+{{ partial "footer" . }}

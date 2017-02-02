@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+{{ .Hugo.Generator }}
+
+<title>{{ .Site.Title }} :: {{ block "title" . }}{{ .Title }}{{ end }}</title>
+
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" type="text/css" media="screen" />
+{{ with .RSSLink }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} RSS Feed" href="{{ . }}" />
+{{ end }}
+</head>
+<body>
+
+{{ if ne (getenv "HUGO_ENV") "DEV" }}
+{{ template "_internal/google_analytics.html" . }}
+{{ end }}
+
+<div id="page">
+<div id="header">
+	<div id="headerimg">
+		<h1><a href="{{ .Site.BaseURL }}/">{{ .Site.Title }}</a></h1>
+		<p>{{ .Site.Params.Subtitle }}</p>
+	</div>
+</div>
+<hr />

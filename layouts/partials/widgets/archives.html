@@ -1,0 +1,6 @@
+{{ range .Data.Pages.GroupByDate "01 2006" }}
+    {{ $split := split .Key " " }}
+    {{ $month := replace (index $split 0) "0" "" }}
+    {{ $url := printf "%s/%s/" (index $split 1) (index $split 0) }}
+    <li><a href="{{ $url | absURL }}">{{ index $.Site.Data.months $month }} {{ index $split 1 }}</a></li>
+{{ end }}

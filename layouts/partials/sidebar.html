@@ -1,0 +1,86 @@
+<div id="side">
+<div id="summary">
+	{{ partial "results" . }}
+</div>
+<div id="sidebar">
+	<ul>
+		<li>
+        {{ if false }}
+        TODO :: If is category archive show special message here
+		<!--<p>Este es el archivo histórico de la categoría <?php single_cat_title(''); ?>.</p>-->
+        {{ else }}
+            {{ if false }}
+            TODO :: Contextual messages
+			<p>You are currently browsing the <a href="<?php bloginfo('home'); ?>/"><?php echo bloginfo('name'); ?></a> weblog archives
+			for the day <?php the_time('l, F jS, Y'); ?>.</p>
+			
+			<?php /* If this is a monthly archive */ } elseif (is_month()) { ?>
+			<p>Estás viendo los archivos de <strong><a href="<?php bloginfo('home'); ?>/"><?php echo bloginfo('name'); ?></a></strong> de <?php the_time('F \d\e Y'); ?>.</p>
+
+			<?php /* If this is a yearly archive */ } elseif (is_year()) { ?>
+			<p>You are currently browsing the <a href="<?php bloginfo('home'); ?>/"><?php echo bloginfo('name'); ?></a> weblog archives
+			for the year <?php the_time('Y'); ?>.</p>
+			
+			<?php /* If this is a monthly archive */ } elseif (is_search()) { ?>
+			<p>You have searched the <a href="<?php echo bloginfo('home'); ?>/"><?php echo bloginfo('name'); ?></a> weblog archives
+			for <strong>'<?php echo wp_specialchars($s); ?>'</strong>. If you are unable to find anything in these search results, you can try one of these links.</p>
+
+			<?php /* If this is a monthly archive */ } elseif (isset($_GET['paged']) && !empty($_GET['paged'])) { ?>
+			<p>Estás viendo los archivos de <strong><a href="<?php echo bloginfo('home'); ?>/"><?php echo bloginfo('name'); ?></a><strong>.</p>
+            {{ end }}
+        {{ end }}
+		</li>
+
+        <li>
+            <h2>Buscador</h2>
+            {{ partial "searchform" . }}
+		</li>
+		
+		<li><h2>Suscríbete</h2>
+            TODO :: Add Feedly at least!
+			<ul>
+				<span><img src="{{ .Site.BaseURL }}/images/sub_bloglines.gif" alt="Bloglines" /></span>
+			</ul>
+			<ul>
+				<span><img src="{{ .Site.BaseURL }}/images/sub_yahoo.gif" alt="Yahoo!" /></span>
+			</ul>
+			<ul>
+				<span><img src="{{ .Site.BaseURL }}/images/sub_netvibes.gif" alt="Netvibes" /></span>
+			</ul>
+			<ul>
+				<span><img src="{{ .Site.BaseURL }}/images/sub_google.gif" alt="Google" /></span>
+			</ul>
+		</li>
+
+		<li><h2>Etiquetas</h2>
+			{{ partial "tag_cloud" . }}
+		</li>
+		
+		<li><h2>Categorías</h2>
+			<ul>
+			{{ partial "category_list" . }}
+			</ul>
+		</li>
+		
+		<hr/>
+		
+        {{ if .IsHome }}
+            {{ partial "links" . }}
+            <li><h2>Meta</h2>
+			<ul>
+				<li><a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a></li>
+				<li><a href="http://wordpress.org/" title="Anteriormente motorizado por WordPress, lo último en publicación semántica personal." style="text-decoration-line: line-through">WordPress</a></li>
+                <li><a href="http://gohugo.io/" title="Motorizado por Hugo, un motor rápido y moderno de páginas estáticas.">Hugo</a></li>
+			</ul>
+			</li>
+        {{ end }}
+		
+		<li><h2>Archivos</h2>
+			<ul>
+			{{ partial "widgets/archives" . }}
+			</ul>
+		</li>
+
+	</ul>
+</div>
+</div>
