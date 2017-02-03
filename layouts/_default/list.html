@@ -2,7 +2,11 @@
 
 {{ define "main" }}
 <div id="content" class="narrowcolumn">
-    <h2>{{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}{{ else }}{{ index $.Site.Data.tags .Title }}{{ end }}</h2>
+    <h2>{{ if eq .Data.Singular "category" }}
+		Archivo de la categoría '{{ index $.Site.Data.categories .Title }}'
+		{{ else }}
+		Archivo de la etiqueta '{{ index $.Site.Data.tags .Title }}'
+	{{ end }}</h2>
     {{ if false }}
     <?php /* If this is a category archive */ if (is_category()) { ?>				
     <h2 class="pagetitle">Archive for the '<?php echo single_cat_title(); ?>' Category</h2>
@@ -48,33 +52,7 @@
 			{{ .Content }}
 		</div>
 
-		{{ if isset .Params "tag" }}
-		{{ $tagsLen := len .Params.tag }}
-		{{ if gt $tagsLen 0 }}
-		<p class="postmetadata">
-			Etiquetas:
-			{{ range $k, $v := .Params.tag }}
-			{{ $url := printf "tag/%s" (. | urlize | lower) }}
-			<a rel="tag" href="{{ $url | absURL }}">{{ . }}</a>{{ if lt $k (sub $tagsLen 1) }}, {{ end }}
-			{{ end }}
-		</p>
-		{{ end }}
-        {{ end }}
-
-		{{ if isset .Params "category" }}
-        {{ $categoriesLen := len .Params.category }}
-        {{ if gt $categoriesLen 0 }}
-        <p class="postmetadata">
-			Categorías:
-                {{ range $k, $v := .Params.category }}
-                {{ $url := printf "category/%s" (. | urlize | lower) }}
-                <a rel="category tag" href="{{ $url | absURL }}">{{ . }}</a>{{ if lt $k (sub $categoriesLen 1) }}, {{ end }}
-                {{ end }}
-		</p>
-		{{ end }}
-        {{ end }}
-
-		TODO :: Comments
+		{{ partial "post_footer" . }}
 	</div>
 	{{ end }}
 
