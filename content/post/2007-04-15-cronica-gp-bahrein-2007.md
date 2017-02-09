@@ -17,6 +17,8 @@ tag:
 - McLaren
 - Räikkönen
 - Red Bull
+2007:
+- "04"
 date: 2007-04-15T18:51:00Z
 guid: http://f1blog.climens.net/2007/04/15/cronica-gp-bahrein-2007/
 id: 111

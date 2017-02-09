@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2005
+2005:
+- "10"
 date: 2005-10-07T19:12:05Z
 excerpt: Llega el final de la temporada y McLaren y Renault se juegan el mundial de
   constructores. Por otro lado, Ferrari tampoco tiene que dormirse en los laureles,

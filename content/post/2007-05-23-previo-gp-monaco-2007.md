@@ -10,6 +10,8 @@ tag:
 - Massa
 - Mónaco
 - Räikkönen
+2007:
+- "05"
 date: 2007-05-23T22:37:03Z
 guid: http://f1blog.climens.net/2007/05/23/previo-gp-monaco-2007/
 id: 115

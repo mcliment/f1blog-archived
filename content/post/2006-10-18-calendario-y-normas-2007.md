@@ -8,6 +8,8 @@ tag:
 - Calendario
 - Reglamento
 - Safety Car
+2006:
+- "10"
 date: 2006-10-18T23:47:31Z
 guid: http://blog.climens.net/2006/10/18/calendario-y-normas-2007/
 id: 90

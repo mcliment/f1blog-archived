@@ -15,6 +15,8 @@ tag:
 - Räikkönen
 - Rosberg
 - Trulli
+2007:
+- "10"
 date: 2007-10-21T20:20:41Z
 guid: http://f1blog.climens.net/2007/10/21/cronica-gp-brasil-2007/
 id: 156

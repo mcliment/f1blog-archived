@@ -19,6 +19,8 @@ tag:
 - Speed
 - Toyota
 - Wurz
+2007:
+- "07"
 date: 2007-07-08T22:33:58Z
 guid: http://f1blog.climens.net/2007/07/08/cronica-gp-gran-bretana-2007/
 id: 132

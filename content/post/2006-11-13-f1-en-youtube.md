@@ -14,6 +14,8 @@ tag:
 - Schumacher
 - Senna
 - Videos
+2006:
+- "11"
 date: 2006-11-13T00:11:34Z
 guid: http://blog.climens.net/2006/11/13/f1-en-youtube/
 id: 97

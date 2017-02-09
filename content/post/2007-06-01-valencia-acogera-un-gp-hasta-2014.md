@@ -7,6 +7,8 @@ tag:
 - Ecclestone
 - FIA
 - Valencia
+2007:
+- "06"
 date: 2007-06-01T17:44:45Z
 guid: http://f1blog.climens.net/2007/06/01/valencia-acogera-un-gp-hasta-2014/
 id: 120

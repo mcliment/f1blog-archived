@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "04"
 date: 2006-04-02T19:05:43Z
 guid: http://blog.climens.net/?p=34
 id: 34

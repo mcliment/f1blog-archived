@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-30T23:58:29Z
 guid: http://blog.climens.net/2006/07/30/cronica-gp-alemania/
 id: 70

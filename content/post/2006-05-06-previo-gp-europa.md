@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "05"
 date: 2006-05-06T13:06:27Z
 guid: http://blog.climens.net/2006/05/06/previo-gp-europa/
 id: 39

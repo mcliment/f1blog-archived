@@ -8,6 +8,8 @@ tag:
 - Hamilton
 - Japón
 - Räikkönen
+2007:
+- "09"
 date: 2007-09-29T00:30:34Z
 guid: http://f1blog.climens.net/2007/09/29/previo-gp-japon-2007/
 id: 148

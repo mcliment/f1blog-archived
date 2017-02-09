@@ -16,6 +16,8 @@ tag:
 - McLaren
 - Räikkönen
 - Webber
+2007:
+- "09"
 date: 2007-09-16T22:46:15Z
 guid: http://f1blog.climens.net/2007/09/16/cronica-gp-belgica-2007/
 id: 147

@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "08"
 date: 2006-08-27T23:34:40Z
 guid: http://blog.climens.net/2006/08/27/cronica-gp-turquia/
 id: 76

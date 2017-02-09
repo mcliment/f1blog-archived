@@ -12,6 +12,8 @@ tag:
 - McLaren
 - Renault
 - Trulli
+2007:
+- "06"
 date: 2007-06-29T16:38:49Z
 guid: http://f1blog.climens.net/2007/06/29/previo-gp-francia-2007/
 id: 127

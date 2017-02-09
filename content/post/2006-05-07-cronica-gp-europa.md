@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "05"
 date: 2006-05-07T19:17:13Z
 guid: http://blog.climens.net/2006/05/07/cronica-gp-europa/
 id: 40

@@ -15,6 +15,8 @@ tag:
 - Toro Rosso
 - Toyota
 - Williams
+2006:
+- "10"
 date: 2006-10-28T14:33:21Z
 guid: http://blog.climens.net/2006/10/28/balance-2006-equipos/
 id: 95

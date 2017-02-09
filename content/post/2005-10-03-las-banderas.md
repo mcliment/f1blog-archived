@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Tecnología
+2005:
+- "10"
 date: 2005-10-03T23:25:24Z
 excerpt: Las banderas usadas en Fórmula Uno, tan conocidas ya por muchos, aún siguen
   siendo una incógnita para muchos de los nuevos llegados. Aquí una sencilla explicación.

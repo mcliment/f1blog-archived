@@ -12,6 +12,8 @@ tag:
 - Japón
 - Renault
 - Schumacher
+2006:
+- "10"
 date: 2006-10-07T00:25:25Z
 guid: http://blog.climens.net/2006/10/07/previo-gp-japon/
 id: 88

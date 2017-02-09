@@ -13,6 +13,8 @@ tag:
 - Räikkönen
 - Valencia
 - Villeneuve
+2007:
+- "05"
 date: 2007-05-10T22:23:15Z
 guid: http://f1blog.climens.net/2007/05/10/previo-gp-espana-2007/
 id: 112

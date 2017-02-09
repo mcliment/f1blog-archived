@@ -8,6 +8,8 @@ tag:
 - Brasil
 - Hamilton
 - Räikkönen
+2007:
+- "10"
 date: 2007-10-20T12:05:57Z
 guid: http://f1blog.climens.net/2007/10/20/previo-gp-brasil-2007/
 id: 154

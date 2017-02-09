@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "04"
 date: 2006-04-22T14:06:30Z
 guid: http://blog.climens.net/2006/04/22/previo-gp-san-marino/
 id: 37

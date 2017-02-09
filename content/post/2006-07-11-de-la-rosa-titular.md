@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-11T23:46:04Z
 guid: http://blog.climens.net/2006/07/11/de-la-rosa-titular/
 id: 64

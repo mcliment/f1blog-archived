@@ -15,6 +15,8 @@ tag:
 - Räikkönen
 - Rosberg
 - Willams
+2007:
+- "05"
 date: 2007-05-27T22:48:08Z
 guid: http://f1blog.climens.net/2007/05/27/cronica-gp-monaco-2007/
 id: 117

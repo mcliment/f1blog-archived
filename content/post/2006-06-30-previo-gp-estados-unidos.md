@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "06"
 date: 2006-06-30T21:16:25Z
 guid: http://blog.climens.net/2006/06/30/previo-gp-estados-unidos/
 id: 58

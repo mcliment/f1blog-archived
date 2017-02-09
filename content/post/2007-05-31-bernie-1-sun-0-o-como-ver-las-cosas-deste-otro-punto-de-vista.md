@@ -7,6 +7,8 @@ tag:
 - Ecclestone
 - FIA
 - McLaren
+2007:
+- "05"
 date: 2007-05-31T19:15:09Z
 guid: http://f1blog.climens.net/2007/05/31/bernie-1-sun-0-o-como-ver-las-cosas-deste-otro-punto-de-vista/
 id: 119

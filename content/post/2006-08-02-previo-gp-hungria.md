@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "08"
 date: 2006-08-02T14:34:12Z
 guid: http://blog.climens.net/2006/08/02/previo-gp-hungria/
 id: 71

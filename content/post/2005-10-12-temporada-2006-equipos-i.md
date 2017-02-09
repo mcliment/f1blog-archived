@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Temporada 2006
+2005:
+- "10"
 date: 2005-10-12T22:35:20Z
 guid: http://blog.climens.net/?p=9
 id: 12

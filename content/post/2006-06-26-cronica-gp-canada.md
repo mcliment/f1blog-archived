@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "06"
 date: 2006-06-26T00:42:46Z
 guid: http://blog.climens.net/2006/06/26/cronica-gp-canada/
 id: 52

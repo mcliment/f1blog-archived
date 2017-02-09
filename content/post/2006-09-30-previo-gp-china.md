@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "09"
 date: 2006-09-30T00:58:43Z
 guid: http://blog.climens.net/2006/09/30/previo-gp-china/
 id: 83

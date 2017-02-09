@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "06"
 date: 2006-06-11T19:47:11Z
 guid: http://blog.climens.net/2006/06/11/cronica-gp-gran-bretana/
 id: 49

@@ -5,6 +5,8 @@ category:
 tag:
 - Alonso
 - Brasil
+2008:
+- "03"
 date: 2008-03-14T19:11:05Z
 guid: http://f1blog.climens.net/2008/03/14/despedida-y-cierre/
 id: 157

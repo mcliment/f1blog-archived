@@ -11,6 +11,8 @@ tag:
 - Räikkönen
 - Renault
 - Schumacher
+2006:
+- "10"
 date: 2006-10-01T18:50:02Z
 guid: http://blog.climens.net/2006/10/01/cronica-gp-china/
 id: 84

@@ -9,6 +9,8 @@ tag:
 - Hungría
 - McLaren
 - Turquía
+2007:
+- "08"
 date: 2007-08-23T23:56:24Z
 guid: http://f1blog.climens.net/2007/08/23/previo-gp-turquia-2007/
 id: 139

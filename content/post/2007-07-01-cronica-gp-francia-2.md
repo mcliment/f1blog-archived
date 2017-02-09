@@ -16,6 +16,8 @@ tag:
 - McLaren
 - Räikkönen
 - Renault
+2007:
+- "07"
 date: 2007-07-01T16:13:31Z
 guid: http://f1blog.climens.net/2007/07/01/cronica-gp-francia-2/
 id: 129

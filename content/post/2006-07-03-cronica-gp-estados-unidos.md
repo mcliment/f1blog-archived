@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-03T00:00:10Z
 guid: http://blog.climens.net/2006/07/03/cronica-gp-estados-unidos/
 id: 59

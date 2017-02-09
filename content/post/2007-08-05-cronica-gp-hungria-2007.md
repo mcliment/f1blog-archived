@@ -15,6 +15,8 @@ tag:
 - Räikkönen
 - Schumacher
 - Toyota
+2007:
+- "08"
 date: 2007-08-05T20:17:01Z
 guid: http://f1blog.climens.net/2007/08/05/cronica-gp-hungria-2007/
 id: 138

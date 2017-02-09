@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Tecnología
+2005:
+- "10"
 date: 2005-10-10T23:50:26Z
 guid: http://blog.climens.net/?p=8
 id: 11

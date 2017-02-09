@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Noticias
+2005:
+- "11"
 date: 2005-11-18T00:49:28Z
 guid: http://blog.climens.net/?p=20
 id: 23

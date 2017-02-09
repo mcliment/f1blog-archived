@@ -10,6 +10,8 @@ tag:
 - Massa
 - Sato
 - Schumacher
+2006:
+- "10"
 date: 2006-10-22T22:53:30Z
 guid: http://blog.climens.net/2006/10/22/cronica-gp-brasil/
 id: 93

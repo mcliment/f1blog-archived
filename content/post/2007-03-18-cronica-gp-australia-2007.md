@@ -10,6 +10,8 @@ tag:
 - Hamilton
 - McLaren
 - Räikkönen
+2007:
+- "03"
 date: 2007-03-18T19:03:34Z
 guid: http://f1blog.climens.net/2007/03/18/cronica-gp-australia-2007/
 id: 104

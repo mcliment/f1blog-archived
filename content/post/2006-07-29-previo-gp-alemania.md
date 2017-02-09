@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-29T13:06:07Z
 guid: http://blog.climens.net/2006/07/29/previo-gp-alemania/
 id: 69

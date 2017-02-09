@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Noticias
+2006:
+- "04"
 date: 2006-04-09T16:38:59Z
 guid: http://blog.climens.net/2006/04/09/gp2-en-valencia/
 id: 36

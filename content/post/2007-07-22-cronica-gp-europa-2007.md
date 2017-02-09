@@ -17,6 +17,8 @@ tag:
 - Safety Car
 - Webber
 - Winkelhock
+2007:
+- "07"
 date: 2007-07-22T23:22:39Z
 guid: http://f1blog.climens.net/2007/07/22/cronica-gp-europa-2007/
 id: 135

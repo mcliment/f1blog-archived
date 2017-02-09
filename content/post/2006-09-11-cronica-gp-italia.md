@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "09"
 date: 2006-09-11T00:01:49Z
 guid: http://blog.climens.net/2006/09/11/cronica-gp-italia/
 id: 81

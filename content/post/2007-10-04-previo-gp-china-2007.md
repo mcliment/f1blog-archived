@@ -12,6 +12,8 @@ tag:
 - Räikkönen
 - Vettel
 - Webber
+2007:
+- "10"
 date: 2007-10-04T22:41:45Z
 guid: http://f1blog.climens.net/2007/10/04/previo-gp-china-2007/
 id: 152

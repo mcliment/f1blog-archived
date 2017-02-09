@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-09T21:32:12Z
 guid: http://blog.climens.net/2006/07/09/montoya-se-pira/
 id: 62

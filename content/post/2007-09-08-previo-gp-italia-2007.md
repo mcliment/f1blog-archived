@@ -11,6 +11,8 @@ tag:
 - McLaren
 - Schumacher
 - Videos
+2007:
+- "09"
 date: 2007-09-08T01:06:57Z
 guid: http://f1blog.climens.net/2007/09/08/previo-gp-italia-2007/
 id: 143

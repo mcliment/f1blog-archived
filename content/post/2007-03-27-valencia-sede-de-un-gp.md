@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Noticias
+2007:
+- "03"
 date: 2007-03-27T20:27:46Z
 guid: http://f1blog.climens.net/2007/03/27/%c2%bfvalencia-sede-de-un-gp/
 id: 105

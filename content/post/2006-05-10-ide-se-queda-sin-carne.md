@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2006
+2006:
+- "05"
 date: 2006-05-10T23:45:41Z
 guid: http://blog.climens.net/2006/05/10/ide-se-queda-sin-carne/
 id: 41

@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2007
+2006:
+- "08"
 date: 2006-08-29T23:30:00Z
 guid: http://blog.climens.net/2006/08/29/posible-calendario-2007/
 id: 77

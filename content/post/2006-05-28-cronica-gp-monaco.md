@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "05"
 date: 2006-05-28T17:01:08Z
 guid: http://blog.climens.net/2006/05/28/cronica-gp-monaco/
 id: 45

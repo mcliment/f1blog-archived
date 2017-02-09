@@ -7,6 +7,8 @@ tag:
 - Piquet
 - Senna
 - Videos
+2007:
+- "02"
 date: 2007-02-25T22:28:50Z
 guid: http://blog.climens.net/2007/02/25/los-11-mejores-adelantamientos-de-f1/
 id: 100

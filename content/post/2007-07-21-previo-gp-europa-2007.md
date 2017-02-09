@@ -12,6 +12,8 @@ tag:
 - Nürburgring
 - Räikkönen
 - Schumacher
+2007:
+- "07"
 date: 2007-07-21T10:49:50Z
 guid: http://f1blog.climens.net/2007/07/21/previo-gp-europa-2007/
 id: 133

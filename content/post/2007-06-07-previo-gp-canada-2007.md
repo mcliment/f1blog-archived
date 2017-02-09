@@ -12,6 +12,8 @@ tag:
 - McLaren
 - Videos
 - Villeneuve
+2007:
+- "06"
 date: 2007-06-07T22:33:32Z
 guid: http://f1blog.climens.net/2007/06/07/previo-gp-canada-2007/
 id: 121

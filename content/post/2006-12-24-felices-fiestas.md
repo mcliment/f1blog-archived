@@ -6,6 +6,8 @@ tag:
 - Alonso
 - McLaren
 - Regazzoni
+2006:
+- "12"
 date: 2006-12-24T21:03:23Z
 guid: http://blog.climens.net/2006/12/24/felices-fiestas/
 id: 99

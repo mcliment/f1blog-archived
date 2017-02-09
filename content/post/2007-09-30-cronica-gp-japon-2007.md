@@ -16,6 +16,8 @@ tag:
 - Spyker
 - Sutil
 - Vettel
+2007:
+- "09"
 date: 2007-09-30T11:22:15Z
 guid: http://f1blog.climens.net/2007/09/30/cronica-gp-japon-2007/
 id: 150

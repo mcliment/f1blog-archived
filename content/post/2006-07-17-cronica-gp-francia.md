@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-17T00:32:41Z
 guid: http://blog.climens.net/2006/07/17/cronica-gp-francia/
 id: 67

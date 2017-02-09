@@ -15,6 +15,10 @@ paginate = 3
 [taxonomies]
 tags = "tag"
 category = "category"
+2005 = "2005"
+2006 = "2006"
+2007 = "2007"
+2008 = "2008"
 
 [params]
 subtitle = "Blog independiente sobre Formula 1"

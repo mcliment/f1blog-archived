@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2006
+2006:
+- "04"
 date: 2006-04-23T21:38:50Z
 guid: http://blog.climens.net/2006/04/23/cronica-gp-de-san-marino/
 id: 38

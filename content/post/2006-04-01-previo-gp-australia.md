@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "04"
 date: 2006-04-01T16:32:29Z
 guid: http://blog.climens.net/?p=33
 id: 33

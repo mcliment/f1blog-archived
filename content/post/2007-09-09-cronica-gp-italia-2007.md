@@ -14,6 +14,8 @@ tag:
 - Massa
 - Räikkönen
 - Safety Car
+2007:
+- "09"
 date: 2007-09-09T20:47:45Z
 guid: http://f1blog.climens.net/2007/09/09/cronica-gp-italia-2007/
 id: 145

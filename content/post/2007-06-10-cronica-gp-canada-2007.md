@@ -14,6 +14,8 @@ tag:
 - Safety Car
 - Sato
 - Wurz
+2007:
+- "06"
 date: 2007-06-10T23:01:22Z
 guid: http://f1blog.climens.net/2007/06/10/cronica-gp-canada-2007/
 id: 123

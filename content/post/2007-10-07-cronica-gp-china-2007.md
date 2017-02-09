@@ -15,6 +15,8 @@ tag:
 - McLaren
 - Räikkönen
 - Vettel
+2007:
+- "10"
 date: 2007-10-07T11:00:48Z
 guid: http://f1blog.climens.net/2007/10/07/cronica-gp-china-2007/
 id: 153

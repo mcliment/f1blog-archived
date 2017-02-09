@@ -14,6 +14,8 @@ tag:
 - McLaren
 - Räikkönen
 - Renault
+2007:
+- "04"
 date: 2007-04-10T22:42:51Z
 guid: http://f1blog.climens.net/2007/04/10/cronica-gp-malasia-2007/
 id: 108

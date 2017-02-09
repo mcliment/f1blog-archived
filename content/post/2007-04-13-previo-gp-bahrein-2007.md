@@ -15,6 +15,8 @@ tag:
 - Räikkönen
 - Renault
 - Williams
+2007:
+- "04"
 date: 2007-04-13T16:57:15Z
 guid: http://f1blog.climens.net/2007/04/13/previo-gp-bahrein-2007/
 id: 110

@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "07"
 date: 2006-07-15T15:36:36Z
 guid: http://blog.climens.net/2006/07/15/previo-gp-francia/
 id: 66

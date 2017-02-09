@@ -9,6 +9,8 @@ tag:
 - Ferrari
 - McLaren
 - Renault
+2007:
+- "03"
 date: 2007-03-16T18:09:12Z
 guid: http://f1blog.climens.net/2007/03/16/previo-gp-australia-2007/
 id: 102

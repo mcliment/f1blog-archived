@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Noticias
+2006:
+- "07"
 date: 2006-07-05T21:05:52Z
 guid: http://blog.climens.net/2006/07/05/habemus-neumaticos-y-ecus/
 id: 60

@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Temporada 2005
 date: 2005-09-25T23:03:22Z
+2005:
+- "09"
 guid: http://climens.net/wordpress/?p=2
 id: 5
 title: Alonso campeón

@@ -14,6 +14,8 @@ tag:
 - McLaren
 - Räikkönen
 - Super Aguri
+2007:
+- "04"
 date: 2007-04-05T19:27:23Z
 guid: http://f1blog.climens.net/2007/04/05/previo-gp-malasia-2007/
 id: 106

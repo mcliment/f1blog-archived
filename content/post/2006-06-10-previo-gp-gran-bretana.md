@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Previos
 - Temporada 2006
+2006:
+- "06"
 date: 2006-06-10T13:17:00Z
 guid: http://blog.climens.net/2006/06/10/previo-gp-gran-bretana/
 id: 47

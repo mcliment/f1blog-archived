@@ -3,6 +3,8 @@ author: Marc Climent
 category:
 - Crónicas
 - Temporada 2005
+2005:
+- "10"
 date: 2005-10-09T14:31:43Z
 excerpt: Este Gran Premio pasará a la historia como una de las carreras más interesantes
   y espectaculares de la historia. Las remontadas de Räikkönen (del 17 al 1) y de

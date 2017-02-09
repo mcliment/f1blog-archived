@@ -2,6 +2,8 @@
 author: Marc Climent
 category:
 - Noticias
+2006:
+- "06"
 date: 2006-06-28T23:23:50Z
 guid: http://blog.climens.net/2006/06/28/como-ver-una-carrera-desde-boxes-o-casi/
 id: 53

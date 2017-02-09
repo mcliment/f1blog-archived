@@ -18,6 +18,8 @@ tag:
 - Red Bull
 - Sato
 - Super Aguri
+2007:
+- "05"
 date: 2007-05-13T23:05:52Z
 guid: http://f1blog.climens.net/2007/05/13/cronica-gp-espana-2007/
 id: 114

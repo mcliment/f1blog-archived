@@ -15,6 +15,8 @@ tag:
 - Renault
 - Schumacher
 - Toyota
+2006:
+- "10"
 date: 2006-10-08T21:23:07Z
 guid: http://blog.climens.net/2006/10/08/cronica-gp-de-japon/
 id: 89

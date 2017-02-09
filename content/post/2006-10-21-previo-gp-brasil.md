@@ -13,6 +13,8 @@ tag:
 - Montagny
 - Schumacher
 - Suzuka
+2006:
+- "10"
 date: 2006-10-21T17:57:20Z
 guid: http://f1blog.climens.net/2006/10/21/previo-gp-brasil/
 id: 92

@@ -15,6 +15,8 @@ tag:
 - McLaren
 - Räikkönen
 - Turquía
+2007:
+- "08"
 date: 2007-08-26T23:13:18Z
 guid: http://f1blog.climens.net/2007/08/26/cronica-gp-turquia-2007/
 id: 142

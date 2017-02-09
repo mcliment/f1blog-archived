@@ -16,6 +16,8 @@ tag:
 - Rosberg
 - Super Aguri
 - Vettel
+2007:
+- "06"
 date: 2007-06-17T23:08:06Z
 guid: http://f1blog.climens.net/2007/06/17/cronica-gp-eeuu-2007/
 id: 126

@@ -10,6 +10,8 @@ tag:
 - FIA
 - Hamilton
 - McLaren
+2007:
+- "09"
 date: 2007-09-13T22:45:41Z
 guid: http://f1blog.climens.net/2007/09/13/previo-gp-belgica-2007/
 id: 146

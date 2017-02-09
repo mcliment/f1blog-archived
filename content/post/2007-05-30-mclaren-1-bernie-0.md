@@ -11,6 +11,8 @@ tag:
 - Mónaco
 - Reglamento
 - Schumacher
+2007:
+- "05"
 date: 2007-05-30T23:20:19Z
 guid: http://f1blog.climens.net/2007/05/30/mclaren-1-bernie-0/
 id: 118
