@@ -1,6 +1,9 @@
-{{ range .Data.Pages.GroupByDate "01 2006" }}
+{{ range .Site.Pages.GroupByDate "01 2006" }}
     {{ $split := split .Key " " }}
-    {{ $month := replace (index $split 0) "0" "" }}
+    {{ $month := index $split 0 }}
+    {{ $year := int (index $split 1) }}
+    {{ if gt $year 2000 }}
     {{ $url := printf "%s/%s/" (index $split 1) (index $split 0) }}
     <li><a href="{{ $url | absURL }}">{{ index $.Site.Data.months $month }} {{ index $split 1 }}</a></li>
+    {{ end }}
 {{ end }}
