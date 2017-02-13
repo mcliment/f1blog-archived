@@ -6,7 +6,7 @@ category:
 2006:
 - "06"
 date: 2006-06-23T19:39:42Z
-guid: http://blog.climens.net/2006/06/23/cronica-gp-canada/
+guid: http://f1blog.climens.net/2006/06/23/cronica-gp-canada/
 id: 50
 title: Previo GP Canada
 url: /2006/06/23/previo-gp-canada/
@@ -16,9 +16,7 @@ El circo de la F1 abandona Europa para irse unas semanas a Norteamérica. La pri
 
 Tras la muerte en Zolder en 1982 del carismático y legendario Gilles Villeneuve, que fuera el primer ganador en este trazado, el circuito tomó su nombre ayudando a hacer crecer la leyenda. Y es que el bueno de Gilles, a pesar de no ganar ningún campeonato del mundo, dejó huella en una generación de pilotos y aficionados, con su mítico Ferrari rojo con el número 27 (que fue el número que llevaron los Ferraris hasta la llegada de Michael Schumacher con el 1).
 
-<div style="text-align: center">
-  <img alt="Circuit Gilles Villeneuve" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_Gilles_Villeneuve.svg/500px-Circuit_Gilles_Villeneuve.svg.png" />
-</div>
+<img alt="Circuit Gilles Villeneuve" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_Gilles_Villeneuve.svg/500px-Circuit_Gilles_Villeneuve.svg.png" />
 
 Como se aprecia, Canada es un cirtuito alargado: largas rectas y cerradas curvas. Además, hay algunos tramos en que el muro está muy cerca de la pista y los errores se pagan caros, como le pasó a Olivier Panis, que se rompió las piernas en la primera parte de la vuelta.
 

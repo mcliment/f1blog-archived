@@ -59,5 +59,5 @@ Otras crónicas:
   * [Hamilton gana y Alonso no termina en una carrera marcada por la lluvia](http://soloformula1.wordpress.com/2007/09/30/hamilton-gana-y-alonso-no-termina-en-una-carrera-marcada-por-la-lluvia/) [Sólo Fórmula 1]
   * [Hamilton encauza el mundial bajo el diluvio en Fuji](http://www.formulaf1.es/43/hamilton-encauza-el-mundial-bajo-el-diluvio-en-fuji/) [Formula F1]
   * [Hamilton gana en Japón y tiene el título en el bolsillo](http://www.racingpasion.com/2007/09/30-hamilton-gana-en-japon-y-tiene-el-titulo-en-el-bolsillo) [racingpasión.com]
-  * Japón 2007 &#8211; La crónica [Crónicas de Fórmula 1]
+  * Japón 2007 - La crónica [Crónicas de Fórmula 1]
   * [Hamilton wins chaotic Japanese GP](http://www.autosport.com/news/report.php/id/62862) [autosport.com]

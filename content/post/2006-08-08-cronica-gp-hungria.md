@@ -6,7 +6,7 @@ category:
 2006:
 - "08"
 date: 2006-08-08T01:16:34Z
-guid: http://blog.climens.net/2006/08/08/cronica-gp-hungria/
+guid: http://f1blog.climens.net/2006/08/08/cronica-gp-hungria/
 id: 72
 title: Crónica GP Hungría
 url: /2006/08/08/cronica-gp-hungria/

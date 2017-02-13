@@ -5,7 +5,7 @@ category:
 2005:
 - "11"
 date: 2005-11-05T14:09:48Z
-guid: http://blog.climens.net/?p=18
+guid: http://f1blog.climens.net/?p=18
 id: 21
 title: Michael y el reglamento
 url: /2005/11/05/michael-y-el-reglamento/

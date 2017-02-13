@@ -23,11 +23,9 @@ title: Previo GP Malasia 2007
 url: /2007/04/05/previo-gp-malasia-2007/
 ---
 
-Tras la incógnita del primer gran premio de la temporada, llega un año más el GP de Malasia, disputado siempre en condiciones extremas de calor y humedad que han hecho palidecer literalmente a más de uno (¿Alonso? ¿Häkkinen?).[](http://f1blog.climens.net/files/2007/04/malasia1.png "Circuito de Malasia")
+Tras la incógnita del primer gran premio de la temporada, llega un año más el GP de Malasia, disputado siempre en condiciones extremas de calor y humedad que han hecho palidecer literalmente a más de uno (¿Alonso? ¿Häkkinen?).
 
-<p style="text-align: center">
-  <a href="http://f1blog.climens.net/files/2007/04/malasia1.png" title="Circuito de Malasia"><img src="http://f1blog.climens.net/files/2007/04/malasia1.png" alt="Circuito de Malasia" /></a>
-</p>
+![Circuito de Malasia](/files/2007/04/malasia1.png)
 
 El circuito de Sepang es bastante poco dado a los adelantamientos aunque tiene un par de curvas cerradas a final de recta, las curvas rápidas limitan mucho el acercamiento entre los coches. Y en cuanto a las condiciones, probalemente sol, calor y humedad, lo que aumenta el cansancio y disminuye las capacidades físicas de los pilotos.
 

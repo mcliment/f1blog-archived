@@ -5,7 +5,7 @@ category:
 2005:
 - "12"
 date: 2005-12-20T01:10:25Z
-guid: http://blog.climens.net/?p=24
+guid: http://f1blog.climens.net/?p=24
 id: 27
 title: Bienvenido Mr Alonso
 url: /2005/12/20/bienvenido-mr-alonso/

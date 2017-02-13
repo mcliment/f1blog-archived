@@ -11,7 +11,7 @@ tag:
 2006:
 - "10"
 date: 2006-10-18T23:47:31Z
-guid: http://blog.climens.net/2006/10/18/calendario-y-normas-2007/
+guid: http://f1blog.climens.net/2006/10/18/calendario-y-normas-2007/
 id: 90
 keywords:
 - Calendario,Bridgestone,Safety Car,Reglamento
@@ -25,23 +25,23 @@ En una reunión mantenida hoy en el World Motor Sport Council celebrado hoy en B
 
 El calendario, [casi igual que el provisional](http://f1blog.climens.net/2006/08/29/posible-calendario-2007/ "Posible Calendario 2007"), es el siguiente:
 
-  * Australia &#8211; Albert Park &#8211; 18 de marzo &#8211; _movido desde el tercero_
-  * Malasia &#8211; Sepang &#8211; 8 de abril
-  * Bahrein &#8211; Bahrein &#8211; 15 de abril &#8211; _movido desde el primero_
-  * España &#8211; Catalunya &#8211; 13 de mayo
-  * Mónaco &#8211; Montecarlo &#8211; 27 de mayo
-  * Canadá &#8211; Gilles Villeneuve &#8211; 10 de junio
-  * Estados Unidos &#8211; Indianapolis &#8211; 17 de junio
-  * Francia &#8211; Magny Cours &#8211; 1 de julio
-  * Gran Bretaña &#8211; Silverstone &#8211; 8 de julio &#8211; _retrasado 2 carreras_
-  * Alemania &#8211; Nürburgring &#8211; 22 de julio &#8211; <span style="font-style: italic">en 2008 será Hockenheim y se alternarán</span>
-  * Hungría &#8211; Hungaroring &#8211; 5 de agosto
-  * Turquía &#8211; Estambul &#8211; 26 de agosto
-  * Italia &#8211; Monza &#8211; 9 de septiembre
-  * **Bélgica** &#8211; **Spa** &#8211; 16 de septiembre
-  * Japón &#8211; <span style="font-weight: bold">Fuji</span> &#8211; 30 de septiembre
-  * China &#8211; Shangai &#8211; 7 de octubre &#8211; <span style="font-style: italic">cambiado con Japón</span>
-  * Brasil &#8211; Brasil &#8211; 21 de octubre
+  * Australia - Albert Park - 18 de marzo - _movido desde el tercero_
+  * Malasia - Sepang - 8 de abril
+  * Bahrein - Bahrein - 15 de abril - _movido desde el primero_
+  * España - Catalunya - 13 de mayo
+  * Mónaco - Montecarlo - 27 de mayo
+  * Canadá - Gilles Villeneuve - 10 de junio
+  * Estados Unidos - Indianapolis - 17 de junio
+  * Francia - Magny Cours - 1 de julio
+  * Gran Bretaña - Silverstone - 8 de julio - _retrasado 2 carreras_
+  * Alemania - Nürburgring - 22 de julio - <span style="font-style: italic">en 2008 será Hockenheim y se alternarán</span>
+  * Hungría - Hungaroring - 5 de agosto
+  * Turquía - Estambul - 26 de agosto
+  * Italia - Monza - 9 de septiembre
+  * **Bélgica** - **Spa** - 16 de septiembre
+  * Japón - <span style="font-weight: bold">Fuji</span> - 30 de septiembre
+  * China - Shangai - 7 de octubre - <span style="font-style: italic">cambiado con Japón</span>
+  * Brasil - Brasil - 21 de octubre
 
 Lo comentado ya, vuelve Spa y se confirma la salida de San Marino (Imola) del campeonato. Suzuka se va de momento a cambio de Fuji, aunque parece que Honda (propietario de Suzuka) y Toyota (de Fuji) están por la labor de alternarse.
 

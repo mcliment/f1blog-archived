@@ -6,7 +6,7 @@ category:
 2006:
 - "07"
 date: 2006-07-17T00:32:41Z
-guid: http://blog.climens.net/2006/07/17/cronica-gp-francia/
+guid: http://f1blog.climens.net/2006/07/17/cronica-gp-francia/
 id: 67
 title: Crónica GP Francia
 url: /2006/07/17/cronica-gp-francia/

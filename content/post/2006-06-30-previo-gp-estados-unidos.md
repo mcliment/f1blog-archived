@@ -6,7 +6,7 @@ category:
 2006:
 - "06"
 date: 2006-06-30T21:16:25Z
-guid: http://blog.climens.net/2006/06/30/previo-gp-estados-unidos/
+guid: http://f1blog.climens.net/2006/06/30/previo-gp-estados-unidos/
 id: 58
 title: Previo GP Estados Unidos
 url: /2006/06/30/previo-gp-estados-unidos/
@@ -22,9 +22,7 @@ Esto marcó el principio del fin de la marca francesa como proveedor de F1, que 
 
 Dicho esto, parece que este año la cosa se pone cada vez más clara. Incluso si los equipos Michelin volvieran a no correr, la ventaja de Alonso sería grande. Actualmente su único perseguidor parece ser Schumacher. Algunos ya le habían enterrado pero parece que sigue en forma (como Zidane) y Ferrari ha hecho un buen trabajo.
 
-<div style="text-align: center">
-  <img alt="Indianapolis Motor Speedway" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indianapolis_Motor_Speedway_-_road_course.svg/500px-Indianapolis_Motor_Speedway_-_road_course.svg.png" />
-</div>
+<img alt="Indianapolis Motor Speedway" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indianapolis_Motor_Speedway_-_road_course.svg/500px-Indianapolis_Motor_Speedway_-_road_course.svg.png" />
 
 El trazado americano es un sitio peculiar. Se trata de dos partes muy bien diferenciadas: el óvalo y el infield, construido a propósito para la F1. El óvalo como poco es espectacular y es la única curva de estas características en todo el campeonato. Se alcanzan más de 320km/h antes de llegar a la curva 1, donde se pueden ver interesantes adelantamientos y impresionantes pasadas de frenada. En cuanto al infield es un poco soso, muy llano y con un par de curvas complicadas de radio variable.
 

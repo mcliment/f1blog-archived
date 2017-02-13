@@ -6,7 +6,7 @@ category:
 2005:
 - "10"
 date: 2005-10-13T23:32:01Z
-guid: http://blog.climens.net/?p=10
+guid: http://f1blog.climens.net/?p=10
 id: 13
 title: Previo GP de China
 url: /2005/10/13/previo-gp-de-china/
@@ -25,10 +25,6 @@ Los puestos de atrás están ya bastante claros. Las diferencias son suficientes
 En cuanto al mundial de pilotos, tendría su gracia que Michael ganara a Montoya. Y es que es la regularidad contra los altibajos. Yo prefiero a Michael porque se lo ha currado mucho esta temporada sin perder la calma ni la voluntad.
   
 Después, en un margen de 5 puntos entre el 7º y el 10º están Ralf Schumacher (39), Rubens (38), Button (36) y Webber (34). No es que las posiciones importen mucho, pero está bien que 4 escuderías estén disputando todavía algo, y es que esta temporada, aunque no lo parezca, la mitad de la tabla ha estado muy reñida y ha habido que pegarse para conseguir aunque fuera una 8ª plaza.
-
-<!--more-->
-
-
   
 Y bueno, me gustaría haber hecho un análisis técnico como el que hice para Japón, pero no me conozco el circuito y no me llama comentarlo.
   

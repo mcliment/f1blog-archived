@@ -26,9 +26,7 @@ En el pasado GP de Hungría el asunto sencillamente se les fue un poco de las ma
 
 Desde entonces las críticas les han llovido por todas partes al dúo dinámico y esta mañana por lo visto han tenido una reunión privada con el jefe y no se les ha visto el pelo por el circuito. Veremos como les va este fin de semana.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/08/turquia20071.png" alt="Circuito de Estambul" />
-</p>
+![Circuito de Estambul](/files/2007/08/turquia20071.png)
 
 En cuanto al trazado, es un circuito artifical hecho por Tilke que llega a su tercer Gran Premio. La característica más importante es la curva 8. Larga de izquierdas, con cuatro vértices y complicada de trazar, incluso más de lo que el arquitecto quería. Esto condiciona bastante la puesta a punto del vehículo y obliga a que los neumáticos sean más blandos de lo deseable. En cualquier caso es un circuito interesante y técnico, veremos cómo les va a los McLaren y a los Ferrari, que aun no dan por perdido nada en este campeonato a falta de seis carreras.
 

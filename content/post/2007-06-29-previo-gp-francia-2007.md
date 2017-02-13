@@ -27,9 +27,7 @@ En el tema extradeportivo la verdad es que estas semanas la cosa ha estado inter
 
 Por otro lado, mientras la prensa se encarga de decir que [Alonso no piensa dejar McLaren](http://www.levante-emv.com/secciones/noticia.jsp?pNumEjemplar=3577&pIdSeccion=11&pIdNoticia=315104), el calvo y la prensa amarillista siguen sacando punta a un asunto que se resuelve en la pista y en los resultados. Aun así, McLaren es un equipo muy hermético y poco podrán sacar de ahí. Seguro que Alonso recibió algún toque de RRPP por las declaraciones que hizo en el Larguero.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/06/francia071.png" alt="Circuito de Magny Cours" />
-</p>
+![Circuito de Magny Cours](/files/2007/06/francia071.png)
 
 En cuanto al circuito en sí mismo, Magny Cours es lo que se llamaría un circuito artificial, anterior a la época de Tilke (ya tiene unos cuantos años). Algunas de las curvas están inspiradas en otros circuitos famosos de la época en la que se creó.
 

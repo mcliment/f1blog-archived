@@ -26,9 +26,7 @@ Vaya semanita. Llegan las vacaciones para muchos y parece que en la FIA se aburr
 
 Así llegamos a Hungría. Este gran premio siempre me pilla en periodo vacacional pero espero el domingo poder ver la carrera en condiciones y escribir una crónica de ella.
 
-<p align="center">
-  <img src="http://f1blog.climens.net/files/2007/08/hungria20071.png" alt="Circuito de Hungaroring" />
-</p>
+![Circuito de Hungaroring](/files/2007/08/hungria20071.png)
 
 Hungaroring es una ratonera, un circuito que a Alonso le trae buenos recuerdos de su primera victoria con Renault en F1, hace ya unos añitos. Este año los McLaren están fuertes en los circuitos lentos y revirados con las ruedas más blandas y puede que les vaya bien. Si no recuerdo mal, además es uno de los lugares donde las posibilidades de que llueva son más elevadas y por lo que veo en las previsiones el tiempo no se espera que sea muy bueno, aunque no parece que vaya a llover. Es pronto para saberlo, les preguntaremos a los meteorólogos de Nürburgring.
 

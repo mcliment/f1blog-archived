@@ -6,7 +6,7 @@ category:
 2006:
 - "04"
 date: 2006-04-02T19:05:43Z
-guid: http://blog.climens.net/?p=34
+guid: http://f1blog.climens.net/?p=34
 id: 34
 title: Crónica GP Australia
 url: /2006/04/02/cronica-gp-australia/

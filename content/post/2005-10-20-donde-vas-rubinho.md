@@ -5,7 +5,7 @@ category:
 2005:
 - "10"
 date: 2005-10-20T23:22:36Z
-guid: http://blog.climens.net/?p=13
+guid: http://f1blog.climens.net/?p=13
 id: 16
 title: ¿Dónde vas Rubinho?
 url: /2005/10/20/donde-vas-rubinho/

@@ -6,7 +6,7 @@ category:
 2006:
 - "03"
 date: 2006-03-15T11:17:37Z
-guid: http://blog.climens.net/?p=27
+guid: http://f1blog.climens.net/?p=27
 id: 30
 title: Crónica GP Bahrein
 url: /2006/03/15/cronica-gp-bahrein/

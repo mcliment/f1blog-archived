@@ -9,7 +9,7 @@ date: 2005-10-09T14:31:43Z
 excerpt: Este Gran Premio pasará a la historia como una de las carreras más interesantes
   y espectaculares de la historia. Las remontadas de Räikkönen (del 17 al 1) y de
   Alonso (del 16 al 3) han generado maniobras impresionantes.
-guid: http://blog.climens.net/?p=7
+guid: http://f1blog.climens.net/?p=7
 id: 10
 title: Comentarios GP de Japón
 url: /2005/10/09/comentarios-gp-de-japon/
@@ -27,10 +27,6 @@ Al final Kimi se ha llevado el gato al agua gracias a una muy buena estrategia q
 
 Por tanto, el mundial de Constructores sigue apretado, con 2 puntos de ventaja de los de azul y todo se decidirá en China. Ferrari casi tiene asegurado el 3r puesto, ya que Toyota necesitaría un doblete para superarles, y va a ser que no. Por otro lado, y se me olvidó comentarlo en el previo, aún está abierta la lucha por el tercer lugar en el campeonato de pilotos. El accidente de Montoya ha permitido que Michael le saque 2 puntitos de ventaja y ya veremos como acaba.
 
-<!--more-->
-
-
-  
 Y ahora espacio para mis reflexiones:
 
   * Insisto, un carrerón de los que hacen historia y afición aunque ya sé que ya lo he dichoi arriba.

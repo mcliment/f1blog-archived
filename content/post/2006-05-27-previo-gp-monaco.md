@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-27T12:14:41Z
-guid: http://blog.climens.net/2006/05/27/previo-gp-monaco/
+guid: http://f1blog.climens.net/2006/05/27/previo-gp-monaco/
 id: 44
 title: Previo GP Monaco
 url: /2006/05/27/previo-gp-monaco/
@@ -20,7 +20,7 @@ Hoy me he currado un gráfico muy chulo (basado en parte en [el que hay](http://
 
 ![Grand Prix de Monaco](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/500px-Monte_Carlo_Formula_1_track_map.svg.png)
 
-<!--more--> Como se puede ver, todo en Mónaco es complicado. Nada más salir, la marea de coches entra en Santa Devota. Por suerte hay una pequeña escapatoria a la izquierda que evita más de un toque, pero aun así suele haber algún damnificado. Lo mejor es salir de los primeros y evitar lios. Luego están la rápida Rivage en subida, una curva espectacular desde dentro del monoplaza. Nos lleva directamente a Massanet, una curva rápida que se va abriendo pero hay que ir frenando para tomar la curva del Casino en 2ª.
+Como se puede ver, todo en Mónaco es complicado. Nada más salir, la marea de coches entra en Santa Devota. Por suerte hay una pequeña escapatoria a la izquierda que evita más de un toque, pero aun así suele haber algún damnificado. Lo mejor es salir de los primeros y evitar lios. Luego están la rápida Rivage en subida, una curva espectacular desde dentro del monoplaza. Nos lleva directamente a Massanet, una curva rápida que se va abriendo pero hay que ir frenando para tomar la curva del Casino en 2ª.
 
 Después se toma la bajada del Casino hasta Mirabeau, una curva algo delicada. Seguimos bajando hasta la curva más lenta del campeonato, Loews, que se toma en primera. Los equipos hacen ajustes especiales en la dirección para poder tomar esta curva tan cerrada. Después se toma Portier a la derecha, también muy cerrada y hay que salir de allí como un tiro para encaminarse hacia el Túnel, uno de los tramos más míticos de la F1.
 

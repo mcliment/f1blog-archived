@@ -6,7 +6,7 @@ category:
 2006:
 - "06"
 date: 2006-06-26T00:42:46Z
-guid: http://blog.climens.net/2006/06/26/cronica-gp-canada/
+guid: http://f1blog.climens.net/2006/06/26/cronica-gp-canada/
 id: 52
 title: Crónica GP Canadá
 url: /2006/06/26/cronica-gp-canada/

@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-06T13:06:27Z
-guid: http://blog.climens.net/2006/05/06/previo-gp-europa/
+guid: http://f1blog.climens.net/2006/05/06/previo-gp-europa/
 id: 39
 title: Previo GP Europa
 url: /2006/05/06/previo-gp-europa/
@@ -16,9 +16,7 @@ Un año más nos encontramos en el mítico circuito de Nürburgring, situado en 
 
 El trazado data ya de algunos años, cuando la F1 era muy distinta, pero aun así es un buen circuito con curvas cerradas y muchas subidas y bajadas espectaculares en el que se suelen ver carreras interesantes aunque pocos adelantamientos.
 
-<div style="text-align: center">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GrandPrix_Circuit_Europe_2006.svg/230px-GrandPrix_Circuit_Europe_2006.svg.png" />
-</div>
+<img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GrandPrix_Circuit_Europe_2006.svg/230px-GrandPrix_Circuit_Europe_2006.svg.png" />
 
 Esta temporada se llega además a este circuito en un momento muy especial ya que Imola abrió una ronda europea con algunas sorpresas y con Ferrari empujando fuerte tras un comienzo un tanto soso.
 

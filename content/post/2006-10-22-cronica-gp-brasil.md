@@ -13,7 +13,7 @@ tag:
 2006:
 - "10"
 date: 2006-10-22T22:53:30Z
-guid: http://blog.climens.net/2006/10/22/cronica-gp-brasil/
+guid: http://f1blog.climens.net/2006/10/22/cronica-gp-brasil/
 id: 93
 keywords:
 - Brasil,Alonso,Schumacher,Massa,Sato,Fisichella
@@ -23,7 +23,9 @@ url: /2006/10/22/cronica-gp-brasil/
 
 La calificación de ayer vaticinó una carrera en la que Schumi tendría que darlo todo para conseguir ganar si quería mantener sus posibilidades en el mundial. Era difícil pero ¿acaso no era capaz de hacerlo?
 
-En una soberbia carrera de despedida ha demostrado que de no haber sido por el pinchazo podría haber ganado perfectamente, con el permiso quizás de Massa, que es el único que se ha despegado del grupo en una sólida carrera en casa que le ha valido la victoria.<img align="right" alt="Alonso en el podium de Brasil - autosport.com" src="http://f1blog.climens.net/files/2006/10/alonso-campeon.jpg" />
+En una soberbia carrera de despedida ha demostrado que de no haber sido por el pinchazo podría haber ganado perfectamente, con el permiso quizás de Massa, que es el único que se ha despegado del grupo en una sólida carrera en casa que le ha valido la victoria.
+
+![Alonso en el podium de Brasil - autosport.com](/files/2006/10/alonso-campeon.jpg)
 
 Alonso también ha hecho lo que debía. Sin errores, manteniendo un buen ritmo y sin poner en peligro su posición. Habría sido una tontería arriesgar por una victoria que no le llevaba a ningún sitio y aun así ha quedado en mejor posición de lo que muchos pensábamos. ¡Enhorabuena al campeón!
 
@@ -43,7 +45,7 @@ Si alguien vió la clasificación y ahora lee esto se estará preguntando por lo
   
 Otro desastre ha sido el de Williams. En la primera vuelta sus dos corredores han chocado entre ellos. Webber ha roto el alerón trasero y ha tenido que abandonar y Rosberg ha descubierto que sin alerón delantero no se corre demasiado bien y se ha estrellado fuertemente contra la barrera lo que ha obligado a la salida del Safety Car en la segunda vuelta.
   
-<!--more--> Ya fuera de los puntos nos encontramos a Kubica, que demuestra una vez más gran madurez y un futuro prometedor para este casi desconocido polaco que está causando furor.
+Ya fuera de los puntos nos encontramos a Kubica, que demuestra una vez más gran madurez y un futuro prometedor para este casi desconocido polaco que está causando furor.
 
 Y la revelación de la carrera: Sato con el Super Aguri ha quedado 10º!!! La posición de parrilla no deparaba nada bueno pero en una de las mejores carreras del japonés que recuerdo, ha mantenido el tipo por delante de los Red Bull, los Toro Rossos y los Spyker. Felicidades a uno de los más imprevisibles de la parrilla.
 

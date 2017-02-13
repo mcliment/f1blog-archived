@@ -5,7 +5,7 @@ category:
 2005:
 - "11"
 date: 2005-11-18T00:49:28Z
-guid: http://blog.climens.net/?p=20
+guid: http://f1blog.climens.net/?p=20
 id: 23
 title: Un equipo español? Juas!
 url: /2005/11/18/un-equipo-espanol-juas/

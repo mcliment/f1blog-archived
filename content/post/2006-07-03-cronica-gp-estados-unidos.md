@@ -6,7 +6,7 @@ category:
 2006:
 - "07"
 date: 2006-07-03T00:00:10Z
-guid: http://blog.climens.net/2006/07/03/cronica-gp-estados-unidos/
+guid: http://f1blog.climens.net/2006/07/03/cronica-gp-estados-unidos/
 id: 59
 title: Crónica GP Estados Unidos
 url: /2006/07/03/cronica-gp-estados-unidos/

@@ -6,7 +6,7 @@ category:
 2006:
 - "04"
 date: 2006-04-01T16:32:29Z
-guid: http://blog.climens.net/?p=33
+guid: http://f1blog.climens.net/?p=33
 id: 33
 title: Previo GP Australia
 url: /2006/04/01/previo-gp-australia/
@@ -16,9 +16,7 @@ Sé que es un poco tarde ya para escribir un previo, pero dicen que nunca es tar
 
 No cabe duda alguna que Australia es un destino espectacular y aunque no sea ya la primera carrera de la temporada, no pierde interés. El circuito de Albert Park, situado en medio de Melbourne es una prueba que a todo el mundo gusta. Combina quizás lo mejor de un circuito urbano con lo mejor de un circuito en un paraje impresionante.
 
-<div style="text-align: center">
-  <img alt="Circuito de Melbourne" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GrandPrix_Circuit_Australia_2006.svg/200px-GrandPrix_Circuit_Australia_2006.svg.png" />
-</div>
+<img alt="Circuito de Melbourne" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/GrandPrix_Circuit_Australia_2006.svg/200px-GrandPrix_Circuit_Australia_2006.svg.png" />
 
 La vuelta al circuito es trepidante, ya que la cercanía de las vallas y del público junto con un asfalto lleno de rayas dan una sensación de velocidad dificil de apreciar en otros circuitos. Un montón de curvas rápidas y chicanes y el tiempo siempre variable del otoño australiano ayudan a que el gran premio siempre resulte interesante.
 

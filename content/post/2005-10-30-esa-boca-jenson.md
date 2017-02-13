@@ -5,7 +5,7 @@ category:
 2005:
 - "10"
 date: 2005-10-30T13:56:42Z
-guid: http://blog.climens.net/?p=16
+guid: http://f1blog.climens.net/?p=16
 id: 19
 title: ¡Esa boca Jenson!
 url: /2005/10/30/esa-boca-jenson/
@@ -25,7 +25,7 @@ Entre las reacciones, la mujer de Ralf Schumacher le ha dicho que le invita a su
   
 La alemana Elien Lohr, que es la única mujer que ha ganado una carrera de la DTM, dice que pasa demasiado tiempo con las modelos del pitlane y demasiado poco apretando el acelerador. Y que a ver si los mecánicos de Button le aprietan menos los arneses porque parece que no le llega bien el riego al cerebro. Toma esa.
 
-Desde luego, hay que ver qué gente pulula por ahí. Ahora si que espero que el bueno de Rubens te dé un buen repasito, es más, me partiría si Katherine Legge te adelantara con el Minardi &#8211; Toro Rosso, eso si que sería bueno. De momento parece ser la única mujer que tiene posibilidades para el año que viene.
+Desde luego, hay que ver qué gente pulula por ahí. Ahora si que espero que el bueno de Rubens te dé un buen repasito, es más, me partiría si Katherine Legge te adelantara con el Minardi - Toro Rosso, eso si que sería bueno. De momento parece ser la única mujer que tiene posibilidades para el año que viene.
 
 En cuanto a la famosa Danica Patrick, desde que salió en rumor antes del verano de que Bernie estaba moviendo los hilos para traerla a la Fórmula Uno no se ha sabido nada más por lo que es de esperar que no vendrá esta temporada.
 
@@ -33,12 +33,12 @@ Así que eso es todo, ya sabéis quién es Jenson Button. Seguro que esta semana
 
 Para ampliar información:
 
-  * [F1 Central &#8211; Button Sexism Slammed](http://web.archive.org/web/20060617111521/http://formula-1.updatesport.com:80/news/article/1130395234/formula_one/F1headlines/Button-sexism-slammed/view.html) 
-  * [F1 Central &#8211; Button Slammed by the Girls](http://web.archive.org/web/20070702185818/http://formula-1.updatesport.com/news/article/1130578473/formula_one/F1headlines/Button-slammed-by-the-girls/view.html) 
-  * [F1Racing.net &#8211; Mansell tells Jenson to button it](http://www.gpupdate.net/en/f1-news/102423/mansell-tells-jenson-to-button-it/) 
+  * [F1 Central - Button Sexism Slammed](http://web.archive.org/web/20060617111521/http://formula-1.updatesport.com:80/news/article/1130395234/formula_one/F1headlines/Button-sexism-slammed/view.html) 
+  * [F1 Central - Button Slammed by the Girls](http://web.archive.org/web/20070702185818/http://formula-1.updatesport.com/news/article/1130578473/formula_one/F1headlines/Button-slammed-by-the-girls/view.html) 
+  * [F1Racing.net - Mansell tells Jenson to button it](http://www.gpupdate.net/en/f1-news/102423/mansell-tells-jenson-to-button-it/) 
 
 **Actualización:**
 
 Pues no podía tardar mucho la cosa, Jenson ya se ha excusado por sus palabras. Si es que esta gente es muy previsible. Aunque más que excusarse se ha justificado, que no sé que es peor.
 
-  * [F1 News &#8211; Button apologises for comments](http://www.crash.net/uk/en/news_view.asp?cid=1&nid=121594)
+  * [F1 News - Button apologises for comments](http://www.crash.net/uk/en/news_view.asp?cid=1&nid=121594)

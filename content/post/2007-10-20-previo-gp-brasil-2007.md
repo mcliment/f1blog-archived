@@ -19,9 +19,7 @@ url: /2007/10/20/previo-gp-brasil-2007/
 
 Y parecía que no iba a llegar nunca pero aquí está el GP de Brasil, último de la más turbulenta y disputada temporada que ha habido en años. Tres se juegan el título: Hamilton, Alonso, a 4 puntos y Räikkönen a 7. El británico por supuesto tiene la sartén por el mango. Un podio más y casi seguro es campeón. Desde luego el traspiés de Japón no le hizo ningún bien y pasó de verse campeón a tener las cosas un poco más cuesta arriba, pero en realidad él se lo puede permitir, a fin de cuentas es el novato.
 
-<p align="center">
-  <img src="http://f1blog.climens.net/files/2007/10/brasil071.png" alt="Circuito de Interlagos" />
-</p>
+![Circuito de Interlagos](/files/2007/10/brasil071.png)
 
 En cuanto al circuito, es un trazado muy exigente físicamente, sobretodo porque va al revés y la mayoría de las curvas (especialmente las más duras en cuanto a fuerzas G) son de izquierdas y esto castiga mucho el cuello de los pilotos. Además tiene la S de Senna a final de recta, una sucesión de curvas en bajada que ha protagonizado algunos de los mejores adelantamientos de los últimos tiempos y es que entras bien al complejo que lleva a la recta de meta puedes alcanzar al coche de delante con un poco de suerte. Y si llueve es un circuito de lo más emocionante.
 

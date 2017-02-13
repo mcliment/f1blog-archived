@@ -5,15 +5,13 @@ category:
 2006:
 - "04"
 date: 2006-04-09T16:38:59Z
-guid: http://blog.climens.net/2006/04/09/gp2-en-valencia/
+guid: http://f1blog.climens.net/2006/04/09/gp2-en-valencia/
 id: 36
 title: GP2 en Valencia (¿y F1 también?)
 url: /2006/04/09/gp2-en-valencia/
 ---
 
-<div style="text-align: center">
-  <img class="alignright" src="http://upload.wikimedia.org/wikipedia/commons/0/01/GP2_Logo.svg" alt="" width="480" height="360" />
-</div>
+<img class="alignright" src="//upload.wikimedia.org/wikipedia/commons/0/01/GP2_Logo.svg" alt="" width="480" height="360" />
 
 Este fin de semana ha empezado en el circuito Ricardo Tormo de Cheste una nueva termporada de [GP2 Series](http://www.gp2series.com/), la que antes fuera conocida como Formula 3000 y que se muestra como la antesala de la F1.Como muestra de ello, el campeón de la temporada 2005 ha sido este año uno de los pilotos revelación del mundial, el piloto de Williams, Nico Rosberg. Además, el subcampeón Heikki Kovalainen y el tercero, Scott Speed también han dado el salto a la F1, uno como probador de Renault y el otro en Toro Rosso.En cuanto a los resultados, ganó ayer la carrera larga Nelsinho Piquet, seguido del protegido de McLaren Lewis Hamilton. La tercera plaza fue para el debutante del equipo de Adrián Campos, el alicantino Adrián Vallés.
 
@@ -35,8 +33,6 @@ Más información:
   * [GP2 Success adds to Valencia F1 push](http://www.crash.net/news_view.asp?cid=1&id=128197) (Crash.net)
   * Valencia for F1 in 2009?
   * Valencia pushing for Gran Prix
-
-<!--more-->
 
 Mucho se ha especulado sobre este tema, pero una cosa parece clara y es que algunos de los grandes premios eurpoeos están teniendo bastantes problemas de financiación y parece que en Valencia, la administración está volcada a ayudar al organismo gestor del circuito a mejorar sus instalaciones tanto como la FIA y Bernie demanden.
 

@@ -6,7 +6,7 @@ category:
 2006:
 - "08"
 date: 2006-08-27T23:34:40Z
-guid: http://blog.climens.net/2006/08/27/cronica-gp-turquia/
+guid: http://f1blog.climens.net/2006/08/27/cronica-gp-turquia/
 id: 76
 title: Crónica GP Turquía
 url: /2006/08/27/cronica-gp-turquia/
@@ -28,7 +28,7 @@ Antes de repostar, Alonso andaba a más de 7s de su perseguidor, que iba marcand
 
 Massa, que no creo que tuviera muchas ganas de que Michael adelantase al asturiano, no fuera que le obligaran a dejarle pasar, se llevó su primera y merecida victoria (y van dos primeras seguidas, ¿quién será el siguiente?), solo le faltó la vuelta rápida. Felicidades al brasileño.
 
-Alonso consiguió ampliar su exigua ventaja a 12 puntos que le dan un poco más de márgen y Schumi se desdespera en la persecución. Aun así, ¿habría permitido Alonso pasar a Schumi, o habrían tenido un toquecillo? Él lo habría hecho, sin duda.<!--more-->
+Alonso consiguió ampliar su exigua ventaja a 12 puntos que le dan un poco más de márgen y Schumi se desdespera en la persecución. Aun así, ¿habría permitido Alonso pasar a Schumi, o habrían tenido un toquecillo? Él lo habría hecho, sin duda.
 
 En cuanto a los de detrás, el flamante vencedor de Hungría ha quedado cuarto, a solo 6s del grupo de cabeza, lo cual indica que Honda y Button vuelven a estar en forma. Su compañero Rubens también ha conseguido un puntito para el equipo, con una remontada ya que en la primera vuelta le han dado un toque y ha tenido que dar un rodeo por lo que no se ha podido aprovechar de la colisión.
 

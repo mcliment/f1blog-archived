@@ -18,7 +18,7 @@ tag:
 2006:
 - "10"
 date: 2006-10-08T21:23:07Z
-guid: http://blog.climens.net/2006/10/08/cronica-gp-de-japon/
+guid: http://f1blog.climens.net/2006/10/08/cronica-gp-de-japon/
 id: 89
 keywords:
 - Alonso,Schumacher,Japón,Renault,Ferrari,Toyota,Honda,McLaren,Räikkönen,Button,Fisichella
@@ -47,8 +47,6 @@ Dicen que los campeones tienen suerte, quizás Alonso la ha tenido hoy de cara. 
 Teóricamente, no está todo el pescado vendido, porque si el Renault se rompiese y ganase Schumacher en Brasil, aún sería campeón del mundo, pero ¿porqué se le va a romper el coche a Alonso?
 
 En conclusión, 126 puntos para el asturiano frente a 116 del alemán. 195 puntos para Renault frente a 186 puntos para Ferrari, sólo 9 puntos que dejan el campeonato de constructores completamente abierto. En Brasil veremos qué ocurre.
-
-<!--more-->
 
 Tras Alonso, ha llegado un Massa un tanto decepcionado, por su propio resultado y por el abandono de Michael. Según él podría haber ganado de no ser por el pinchazo. Tengo mis dudas al respecto. Fisichella ha ocupado la otra plaza del podio. Una buena carrera para él, que parece que bajo la presión del final de temporada lo está dando todo.
 

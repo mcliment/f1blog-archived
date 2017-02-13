@@ -6,7 +6,7 @@ category:
 2006:
 - "06"
 date: 2006-06-10T13:17:00Z
-guid: http://blog.climens.net/2006/06/10/previo-gp-gran-bretana/
+guid: http://f1blog.climens.net/2006/06/10/previo-gp-gran-bretana/
 id: 47
 title: Previo GP Gran Bretaña
 url: /2006/06/10/previo-gp-gran-bretana/
@@ -28,11 +28,7 @@ Como viene siendo habitual, Kimi sin hacer mucho ruido hace siempre buenos tiemp
 
 En cuanto a los habituales perseguidores, Honda también es muy cambiante. Rubens parece que le ha cogido el truco al coche y Jenson corre en casa aunque parece ir deshinchandose poco a poco, carrera a carrera. Toyota será como siempre una sorpresa, pero a juzgar por los tiempos que han hecho, este tampoco será su mejor fin de semana. Y finalmente Williams: Webber y Rosberg siempre lo hacen bien, teniendo en cuenta que no tienen un coche de los más punteros. Los problemas de fiabilidad les han quitado ya muchos puntos y si consiguen solucionar eso pueden hacer muy buen papel.
 
-<div style="text-align: center">
-  <img alt="Silverstone Circuit" src="http://upload.wikimedia.org/wikipedia/commons/9/91/Circuit_Silverstone.png" />
-</div>
-
-<!--more-->
+<img alt="Silverstone Circuit" src="//upload.wikimedia.org/wikipedia/commons/9/91/Circuit_Silverstone.png" />
 
 En cuanto al trazado, pues es cuanto menos interesante. La salida suele ser apelotonada, con muchas salidas por la escapatoria de Copse. En carrera la cosa cambia, es una curva muy ancha y bastante rápida, que se toma en 5ª a más de 200km/h.
 

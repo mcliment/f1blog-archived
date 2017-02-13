@@ -59,7 +59,7 @@ Otras crónicas:
   * [Perfecto para Ferrari](http://f1dehoyydesiempre.blogspot.com/2007/09/gran-premio-de-blgica-2007.html) [f1 de hoy y de siempre]
   * [Alonso acaba tercero y le quita otro punto a Hamilton](http://soloformula1.wordpress.com/2007/09/16/alonso-acaba-tercero-y-le-quita-otro-punto-a-hamilton/) [solo f1]
   * [Doblete y título mundial para Ferrari en Spa](http://f1-poleposition.blogspot.com/2007/09/doblete-y-ttulo-mundial-para-ferrari-en.html) [f1 pole position]
-  * [Bélgica 2007 &#8211; La crónica](http://cronicasf1.blogspot.com/2007/09/blgica-2007-la-crnica.html) [crónicas de f1]
+  * [Bélgica 2007 - La crónica](http://cronicasf1.blogspot.com/2007/09/blgica-2007-la-crnica.html) [crónicas de f1]
 
 Finalmente, dedicar este post al gran Colin McRae, [fallecido ayer en un terrible accidente junto a su hijo](http://www.elpais.com/articulo/deportes/Fallece/Colin/McRae/accidente/helicoptero/Escocia/elpepudep/20070916elpepudep_2/Tes), por los grandes momentos que ha brindado al mundo de los rallies:
 

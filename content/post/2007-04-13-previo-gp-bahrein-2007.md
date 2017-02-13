@@ -28,13 +28,7 @@ Sol, calor, viento y arena son los adjetivos que mejor califican el entorno en e
 
 Se le da bien a Alonso este moderno trazado ya que ha ganado las dos últimas ediciones, pero puede que este año lo tenga más complicado, aunque visto lo visto en Australia y Malasia, cualquier cosa puede pasar.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/04/bahrein1.png" alt="Circuito de Bahrein" />
-</p>
-
-<p style="text-align: center" align="left">
-  &nbsp;
-</p>
+![Circuito de Bahrein](/files/2007/04/bahrein1.png)
 
 A juzgar por los entrenamientos, Ferrari parece fuerte aquí (por lo menos Kimi), aunque no hay que fiarse demasiado de los resultados del viernes. En Albert Park todo parecía apuntar a que la temporada sería un paseo para los de rojo y en Malasia, no estuvieron inexplicablemente a la altura de los McLaren, que ya son líderes del campeonato.
 

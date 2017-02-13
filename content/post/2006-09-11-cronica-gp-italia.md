@@ -6,7 +6,7 @@ category:
 2006:
 - "09"
 date: 2006-09-11T00:01:49Z
-guid: http://blog.climens.net/2006/09/11/cronica-gp-italia/
+guid: http://f1blog.climens.net/2006/09/11/cronica-gp-italia/
 id: 81
 title: Crónica GP Italia
 url: /2006/09/11/cronica-gp-italia/
@@ -21,10 +21,10 @@ Por eso, Kimi aunque calificó bien, pocos pensaban que podía aguantar ante el 
 En cualquier caso, Kimi ha mantenido una excelente segunda posición, que aunque no le da aun ninguna victoria esta temporada, le brinda otro podio, pero seguro que le sigue sabiendo a poco. Y a Ron Dennis también.
 
 La tercera posición del podio la ha ocupado Robert Kubica, haciendo historia para su país, Polonia, que no ha tenido nunca un gran piloto. BMW ha estado trabajando duro en su nueva evolución aerodinámica así como en el motor, que se ha mostrado como uno de los más potentes de la parrilla. No sé por cuanto van ahora pero fijo que los F1 V8 ya arrojan más de 800CV. Salía por detrás de su compañero Heidfeld, en 6ª posición pero se ha desenvuelto muy bien en la salida y ya se ha conseguido meter 3º, posición de la que no ha bajado en toda la carrera, ya que ha sido uno de los que más tarde ha parado entre los que iban a 2 paradas. Además, el equipo suizo-alemán ha superado a Toyota en la clasificación de marcas y eso es buena señal se su progresión.
-  
-A decir verdad, ha habido un momento, el más emocionante y espectacular de toda la
-  
- <img align="right" alt="Alonso se queja (de Autosport)" src="http://f1blog.climens.net/files/2006/09/alonso-down.jpg" />carrera en que Kubica ha perdido la tercera plaza. Alonso iba 5º, pegado a Massa y este a si vez al polaco. Massa ha entrado en el box, pero el asturiano, que marcaba sus mejores vueltas ha seguido hasta alcanzar al BMW. En ese momento, han entrado a boxes, casi pegados y han salido completamente emparejados, aunque el Renault tenía el lado bueno. Y además por delante de Massa. Esto colocaba a Alonso en una excelente 3ª posición, tras haber salido 10º. Ha empezado a tirar fuerte, pero el motor ha dicho basta, y eso que era nuevo. Seguro que en Enstone aun se están tirando de los pelos.
+
+![Alonso se queja (de Autosport)](/files/2006/09/alonso-down.jpg)
+
+A decir verdad, ha habido un momento, el más emocionante y espectacular de toda la carrera en que Kubica ha perdido la tercera plaza. Alonso iba 5º, pegado a Massa y este a si vez al polaco. Massa ha entrado en el box, pero el asturiano, que marcaba sus mejores vueltas ha seguido hasta alcanzar al BMW. En ese momento, han entrado a boxes, casi pegados y han salido completamente emparejados, aunque el Renault tenía el lado bueno. Y además por delante de Massa. Esto colocaba a Alonso en una excelente 3ª posición, tras haber salido 10º. Ha empezado a tirar fuerte, pero el motor ha dicho basta, y eso que era nuevo. Seguro que en Enstone aun se están tirando de los pelos.
 
 Massa iba pegado al asturiano tras deshacerse de Kubica y se ha visto envuelto en una nube de aceite a la entrada de la primera variante por lo que ha bloqueado los frenos y ha tenido que cambiar los neumáticos. Esto le ha dejado fuera de los puntos, en la 9ª posición.
 
@@ -34,7 +34,7 @@ Tras el italiano llegaron los 2 Honda. El motor no fue de los más potentes hoy,
 
 El Toyota de Trulli llegó 7º, en una sólida carrera a 1 parada y luego entró Heidfeld, con el otro BMW. Ha cometido el fallo de exceder la velocidad en el pit lane en su primera parada y eso le ha comportado un drive-through cuando iba estorbando un poco a Alonso. Ha perdido unas tres posiciones, lo cual habría sido un resultado genial para BMW.
 
-<!--more--> Fuera de los puntos llegó Massa, por los motivos explicados, aunque una salida algo floja le ha condenado a estar toda la carrera detrás del tráfico, especialmente de Kubica, del que no ha podido deshacerse en ningún momento, perdiendo unos valiosos segundos sobre la cabeza de carrera.
+Fuera de los puntos llegó Massa, por los motivos explicados, aunque una salida algo floja le ha condenado a estar toda la carrera detrás del tráfico, especialmente de Kubica, del que no ha podido deshacerse en ningún momento, perdiendo unos valiosos segundos sobre la cabeza de carrera.
 
 Ya a mucha distancia llegó el Williams de Webber, que se ha visto hoy que el que empezó siendo uno de los motores más potentes, el Cosworth, no ha podido mantener el ritmo de evolución de la competencia. Una pena, porque el coche parece bueno. Su compañero Rosberg ha sido el primero en abandonar con problemas de dirección, y es que el equipo de Frank Williams no anda muy fiable esta temporada.
 

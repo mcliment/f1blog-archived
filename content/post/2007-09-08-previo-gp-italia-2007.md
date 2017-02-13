@@ -26,9 +26,7 @@ La semana ha dado un vuelco con los rumores de que la información proporcionada
 
 De resumen, que llegamos a Italia, la tierra de Ferrari que vive el luto por la pérdida de uno de sus personajes más carismáticos. Por lo visto a McLaren no le fue mal en los entrenamientos recientes y en los de esta mañana, pero eso nunca se sabe a ciencia cierta.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/09/italia071.png" alt="italia07.png" />
-</p>
+![Circuito de Monza](/files/2007/09/italia071.png)
 
 La verdad es que Monza es un circuito mítico donde los haya, un clásico de la F1 como puede ser Mónaco o Spa y siempre ha tenido algo característico: es superrápido. Todo son rectas y frenadas y además unas cuantas curvas bastante rápidas con un par de chicanes para que no se desmadre la cosa. Lesmo 1 y 2 son delicadas de tomar porque son muy veloces y si te pasas en la 1, llegas mal a la 2 y comprometes ya la bajada del Serraglio. Y como no la parabólica, una curva de 180º de alta velocidad donde se mantiene durante unos segundos el coche en el límite.
 

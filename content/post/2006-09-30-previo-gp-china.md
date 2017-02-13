@@ -6,7 +6,7 @@ category:
 2006:
 - "09"
 date: 2006-09-30T00:58:43Z
-guid: http://blog.climens.net/2006/09/30/previo-gp-china/
+guid: http://f1blog.climens.net/2006/09/30/previo-gp-china/
 id: 83
 title: Previo GP China
 url: /2006/09/30/previo-gp-china/
@@ -24,9 +24,7 @@ Los dos van a querer llevarse el gato al agua. Alonso porque lo tenía todo de c
 
 Aún así, si hacemos caso de las cifras, este no es el circuito favorito del Kaiser y uno de los que se le resisten, ya que fue 12º en 2004 y 6º en 2005, mientras que Alonso fue 4º en 2004 y ganó el año pasado, por lo que igual se le da bien al asturiano y puede sacarle algún puntito al alemán.
 
-<div style="text-align: center">
-  <img alt="Circuito de Shangai" src="http://f1blog.climens.net/files/2006/09/china.png" />
-</div>
+![Circuito de Shanghai](/files/2006/09/china.png)
 
 China es un circuito moderno, diseñado por el germano Tilke, como tantos otros. Sobre un lecho pantanoso se hizo un circuito de formas caprichosas con unas cuantas curvas anchas de radio variable que dan algo de juego y un par de rectas importantes, una acabada en una gran frenada que puede favorecer algún que otro adelantamiento.
 

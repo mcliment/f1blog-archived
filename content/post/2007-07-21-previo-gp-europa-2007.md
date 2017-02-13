@@ -27,9 +27,7 @@ Este año la F1 en Alemania está un poco de capa caída tras la marcha del gran
 
 Y hablando de temas políticos, la semana que viene se dará a conocer la decisión de la FIA sobre el asunto del espionaje. Se comenta que al final no será nada pero seguro que a más de uno en McLaren le cuesta conciliar el sueño por lo que pueda pasar. Por si fuera poco, si penalizasen a la escudería de Woking dicen que Alonso podría rescindir el contrato inmediatamente por alguna cláusula que tiene. Veremos como queda todo esto.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/07/europa071.png" alt="Circuito de Nürburgring" />
-</p>
+![Circuito de Nürburgring](/files/2007/07/europa071.png)
 
 Pero dejando de lado estos asuntos, Nürburgring sigue siendo un circuito de carreras interesante, lejos ya de la locura del Nordschleife, un circuito de 22Km que los [pilotos de la época tardaban unos 8 minutos en recorrer](http://es.youtube.com/watch?v=n6aNnZ4q80s) (impresionante el video), si las condiciones eran buenas. Ahora está [abierto al público](http://www.nuerburgring.de/en/angebote/driving-experiences/tourist-rides-nordschleife.html) y los más osados pueden [dar una vueltecita](http://es.youtube.com/watch?v=AbqR-KmLJ_w) con su turismo por un módico precio.
 

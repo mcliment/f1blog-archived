@@ -5,7 +5,7 @@ category:
 2005:
 - "10"
 date: 2005-10-10T23:50:26Z
-guid: http://blog.climens.net/?p=8
+guid: http://f1blog.climens.net/?p=8
 id: 11
 title: Análisis técnicos interesantes
 url: /2005/10/10/analisis-tecnicos-interesantes/
@@ -13,7 +13,7 @@ url: /2005/10/10/analisis-tecnicos-interesantes/
 
 A todos aquellos que les guste la tecnología de la Fórmula Uno, especialmente la aerodinámica y que sepan un poco de inglés, encontraréis en la sección de [Technical Analysis](http://www.formula1.com/news/technical/) de la [página oficial](http://www.formula1.com/) del cameponato muchísima información interesante.
 
-<img alt="Technical Analysis" class="centered" src="http://www.formula1.com/wi/full/ta_article/ta_article_877.jpg" />
+<img alt="Technical Analysis" src="http://www.formula1.com/wi/full/ta_article/ta_article_877.jpg" />
   
 En cada carrera sacan unos cuantos comentarios sobre novedades que se encuentran en alguno de los monoplazas explicando cuál es su función concreta y que es lo que mejora. Las ilustraciones son muy buenas y cumplen bien su función.
   

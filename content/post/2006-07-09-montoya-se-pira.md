@@ -3,10 +3,12 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2006
+tag:
+- Montoya
 2006:
 - "07"
 date: 2006-07-09T21:32:12Z
-guid: http://blog.climens.net/2006/07/09/montoya-se-pira/
+guid: http://f1blog.climens.net/2006/07/09/montoya-se-pira/
 id: 62
 title: Montoya se pira
 url: /2006/07/09/montoya-se-pira/
@@ -14,9 +16,7 @@ url: /2006/07/09/montoya-se-pira/
 
 Haciéndo eco de lo que leo en F1Racing.net, Montoya ha decidido que se va por donde vino, al [equipo de Chip Ganassi](http://www.chipganassiracing.com/), donde ya corrió el colombiano antes de venir a la F1 en la CART. Todo apunta a que sustituirá a Casey Mears con el [Dodge Charger #24](http://www.chipganassiracing.com/) de Texaco/Havoline.
 
-<div style="text-align: center">
-  <img alt="Juan Pablo Montoya" src="http://f1blog.climens.net/files/2006/07/montoya.jpg" />
-</div>
+![Juan Pablo Montoya](/files/2006/07/montoya.jpg)
 
 Puede parecer una noticia sin más, pero deja entrever que como ya han apuntado algunas voces del mundillo, la mia incluida, Montoya no tenía un lugar muy seguro en la Fórmula Uno para los años venideros.
 

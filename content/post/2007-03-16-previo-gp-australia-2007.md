@@ -22,9 +22,7 @@ La verdad es que no tengo mucho que aportar respecto a la previa de la temporada
 
 A tenor de los resultados de los entrenamientos, que no suelen ser muy de fiar, Ferrari y McLaren están arriba. BMW y Renault también han marcado buenos tiempos, pero en general como suele ocurrir los viernes, se prueban tantas configuraciones distintas y parámetros que sacar conclusiones es apresurado.
 
-<p align="center">
-  <img src="http://f1blog.climens.net/files/2007/03/australia1.png" alt="Gran Premio de Australia" />
-</p>
+![Gran Premio de Australia](/files/2007/03/australia1.png)
 
 En los comentarios del otro post, alguien me recordó que votase en la porra anual en la que suelo participar (sin beneficio económico), así que estuve mirando alternativas igualmente poco lucrativas pero entretenidas en cualquier caso:
 

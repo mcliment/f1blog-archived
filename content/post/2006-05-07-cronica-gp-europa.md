@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-07T19:17:13Z
-guid: http://blog.climens.net/2006/05/07/cronica-gp-europa/
+guid: http://f1blog.climens.net/2006/05/07/cronica-gp-europa/
 id: 40
 title: Crónica GP Europa
 url: /2006/05/07/cronica-gp-europa/
@@ -19,8 +19,6 @@ Todo he empezado bien para Fernando, saliendo desde la pole y dominando, aunque 
 Llegados al segundo repostaje, el Ferrari ha entrado 3 vueltas más tarde que el bólido azul marcando unas vueltas de infarto que le han dado 5 segundos de ventaja sobre el siguiente al salir de boxes. Toda una eternidad, teniendo en cuenta que Alonso no era más rápido que el alemán.
 
 Y así ha terminado el interesante duelo Alsonso-Schumacher de hoy. Y ya está solo a 13 puntos del asturiano&#8230;
-
-<!--more-->
 
 Pero esto no ha sido todo, ya que todos los demás también han corrido hoy.
 

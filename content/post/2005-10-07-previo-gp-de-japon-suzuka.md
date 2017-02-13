@@ -9,7 +9,7 @@ date: 2005-10-07T19:12:05Z
 excerpt: Llega el final de la temporada y McLaren y Renault se juegan el mundial de
   constructores. Por otro lado, Ferrari tampoco tiene que dormirse en los laureles,
   aunque Toyota está lejos y los italianos han mejorado últimamente.
-guid: http://blog.climens.net/?p=6
+guid: http://f1blog.climens.net/?p=6
 id: 9
 title: Previo GP de Japón
 url: /2005/10/07/previo-gp-de-japon-suzuka/
@@ -21,11 +21,7 @@ Poquito a poco ya hemos llegado a la penúltima prueba de la temporada, el Gran 
 
 Este año la cosa de presenta calentita, y más con la rotura de Räikkönen. Renault y McLaren-Mercedes se juegan el campeonato y los plateados solo llevan 3 puntos de ventaja. Si tuviera que apostar no dudaria en que los chicos de Woking llevan las de ganar ya que en la segunda mitad de la temporada están volando en cada carrera, aunque los problemas de fiabilidad (sí, Ron, he dicho fiabilidad) les han privado de muchos puntos esta temporada. Habrá que ver también si es cierto eso que se dice de que Alonso iba conservando en las últimas carreras para asegurar el mundial. Y encima hay quien le ha criticado por ello (¿eh Ron?). Yo creo que iba bastante al límite, sin pasarse y que no irá mucho más allá en las últimas 2 carreras pero nunca se sabe, este chaval es una caja de sorpresas.
 
-<img class="centered" alt="Trazado Suzuka" src="http://upload.wikimedia.org/wikipedia/commons/7/79/Circuit_Suzuka.png" />
-
-<!--more-->
-
-
+<img alt="Trazado Suzuka" src="//upload.wikimedia.org/wikipedia/commons/7/79/Circuit_Suzuka.png" />
   
 Por otro lado, la tercera plaza del Campeonato de Constructores también está en juego. Ferrari ha mejorado en las últimas carreras y parece que se llevará el gato al agua, un consuelo después de una nefasta temporada, pero si la gente de Toyota se pone las pilas pueden llegar a recortar los 17 puntos que llevan por detrás. De todos modos, los de Colonia han conseguido hacer un coche fiable y medianamente rápido esta temporada y Trulli se ha mostrado bastante regular a lo largo del campeonato.
 

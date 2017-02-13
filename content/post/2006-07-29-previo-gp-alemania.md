@@ -6,7 +6,7 @@ category:
 2006:
 - "07"
 date: 2006-07-29T13:06:07Z
-guid: http://blog.climens.net/2006/07/29/previo-gp-alemania/
+guid: http://f1blog.climens.net/2006/07/29/previo-gp-alemania/
 id: 69
 title: Previo GP Alemania
 url: /2006/07/29/previo-gp-alemania/
@@ -18,9 +18,7 @@ Ahora se volverán a ver las caras en Hockenheim, un circuito que dista bastante
 
 La zona del estadio, em _Motodrom_ sigue siendo espectacular y la cámara móvil que sigue a los coches en la nueva contrarrecta ofrece unas vistas inigualables, parecidas a las que da la nueva cámara móvil de Montmeló.
 
-<div style="text-align: center">
-  <img alt="Hockenheimring" src="http://f1blog.climens.net/files/2006/07/Alemania.png" />
-</div>
+![Hockenheimring](/files/2006/07/Alemania.png)
 
 A pesar de ser el gran premio de casa, a Schumi no se le da especialmente bien este circuito. Ganó en 2004, en 2002 y en 1995, lo cual es poco para él.
 

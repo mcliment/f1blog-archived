@@ -5,7 +5,7 @@ category:
 2006:
 - "06"
 date: 2006-06-28T23:23:50Z
-guid: http://blog.climens.net/2006/06/28/como-ver-una-carrera-desde-boxes-o-casi/
+guid: http://f1blog.climens.net/2006/06/28/como-ver-una-carrera-desde-boxes-o-casi/
 id: 53
 title: Cómo ver una carrera desde boxes (o casi)
 url: /2006/06/28/como-ver-una-carrera-desde-boxes-o-casi/
@@ -25,7 +25,7 @@ A partir de entonces tendremos acceso a un popup que se abre para mostrarnos un 
 
 La pantalla principal es la siguiente
 
-[![Live Timing: Pantalla principal](http://f1blog.climens.net/files/2006/06/captura1.png)](http://f1blog.climens.net/files/2006/06/captura1.png "Live Timing: Pantalla principal")
+![Live Timing: Pantalla principal](/files/2006/06/captura1.png)
 
 En ella se pueden ver los tiempos. Como acababa de empezar la carrera, hay muchos verdes. Los verdes significan mejor tiempo personal. Los moraditos, mejor tiempo total y los amarillos son que no ocurre nada especial. A la derecha está una crónica de lo que va pasando y abajo el estado: bandera verde, amarilla, safety car, etc.
 
@@ -33,11 +33,11 @@ En las clasificaciones también funciona y es bastante práctico porque muchas v
   
 Esta es la pantalla más importante, pero también hay otras interesante. Una es la de &#8220;Weather & Speed&#8221; donde se muestran las velocidades máximas y datos sobre el estado climático de la pista:
 
-[![Live Timing: Weather and Speed](http://f1blog.climens.net/files/2006/06/captura3.png)](http://f1blog.climens.net/files/2006/06/captura3.png "Live Timing: Weather and Speed")
+![Live Timing: Weather and Speed](/files/2006/06/captura3.png)
 
 Finalmente, la tercera pantalla que hay disponible es la de &#8220;Lap Chart&#8221;. En ella se muestran las posiciones iniciales de los pilotos y a medida que avanza la carrera se va creando una gráfica con las posiciones en cada una de las vueltas:
 
-[![Live Timing: Lap Chart](http://f1blog.climens.net/files/2006/06/captura2.png)](http://f1blog.climens.net/files/2006/06/captura2.png "Live Timing: Lap Chart")
+![Live Timing: Lap Chart](/files/2006/06/captura2.png)
 
 Y creo que eso es todo. Luego arriba hay unos enlaces de ayuda que explican cada una de las pantallas y para qué sirve cada cosa, pero tampoco son demasiado útiles una vez te lo conoces.
 

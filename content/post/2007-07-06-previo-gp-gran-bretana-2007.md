@@ -24,9 +24,7 @@ Cada año se oyen rumores de que Silverstone peligra, que no cumple con los requ
 
 La semana ha sido breve pero intensa, con el Stepneygate cada vez más confuso. De momento ha sido despedido de Ferrari pero salvo algunos detalles publicados por la siempre dudosa prensa inglesa, no está demasiado claro qué ha pasado. Además, a esto se suma una investigación adicional sobre algún ingeriero de McLaren y su supuesto espionaje industrial sobre su archirrival Ferrari. De momento Bernie solo ha dicho que de confirmarse como poco la escudería inglesa perdería todos los puntos esta temporada.
 
-<p align="center">
-  <img src="http://f1blog.climens.net/files/2007/07/britain071.png" alt="Circuito de Silverstone" />
-</p>
+![Circuito de Silverstone](/files/2007/07/britain071.png)
 
 En cuanto a Silverstone, es un viejo conocido. Tiene pocos puntos de adelantamiento, eso de lo que ahora tanto se habla, pero a cambio tiene algunas curvas espectaculares como Copse tras la linea de meta o el complejo que forman Maggots, Becketts y Chapel, un estupendo zig zag de alta velocidad. Luego la bajada del Hangar y en general todo el circuito es exigente y emocionante. A eso se une la probabilidad de lluvia que es de las más altas, veremos.
 

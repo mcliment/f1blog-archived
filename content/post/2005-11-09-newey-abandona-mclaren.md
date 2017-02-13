@@ -11,7 +11,7 @@ tag:
 2005:
 - "11"
 date: 2005-11-09T00:21:06Z
-guid: http://blog.climens.net/?p=19
+guid: http://f1blog.climens.net/?p=19
 id: 22
 title: Newey abandona McLaren
 url: /2005/11/09/newey-abandona-mclaren/
@@ -25,10 +25,6 @@ Hoy, paradójicamente, se anuncia su marcha a Red Bull, que en realidad es el mi
 
 Y muchos diréis ¿y quién es este tipo?
 
-<!--more-->
-
-
-  
 Pues bien, como uno puede leer en la [Wikipedia](http://en.wikipedia.org/wiki/Adrian_Newey), [Adrian Newey](http://en.wikipedia.org/wiki/Adrian_Newey) es, sin lugar a dudas, uno de los grandes ingenieros de la F1 actual.
   
 Y solamente hay que ver su palmarés. Empezó su carrera en Fórmula Uno en 1986, en el equipo Force, que se disolvió a final de año. Gracias a su currículum en la CART, se incorporó en March (que se pasó a llamar Leyton House más adelante) para la siguiente temporada. Al final de 1990 fue despedido de esta escudería por los malos resultados, pero fue notable su aportación y innovación en el plano aerodinámico.
@@ -49,4 +45,4 @@ Como se ha comentado antes, estuvo a puntito de dejar McLaren ya en 2001, pero s
 
 Más información
   
-· F1 Central &#8211; [Newey to Red Bull &#8211; official](http://web.archive.org/web/20081120140438/http://formula-1.updatesport.com/news/article/1131454397/formula_one/F1headlines/Newey-to-Red-Bull-official/view.html)
+· F1 Central - [Newey to Red Bull - official](http://web.archive.org/web/20081120140438/http://formula-1.updatesport.com/news/article/1131454397/formula_one/F1headlines/Newey-to-Red-Bull-official/view.html)

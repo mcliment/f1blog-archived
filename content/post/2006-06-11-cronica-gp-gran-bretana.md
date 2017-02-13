@@ -6,7 +6,7 @@ category:
 2006:
 - "06"
 date: 2006-06-11T19:47:11Z
-guid: http://blog.climens.net/2006/06/11/cronica-gp-gran-bretana/
+guid: http://f1blog.climens.net/2006/06/11/cronica-gp-gran-bretana/
 id: 49
 title: Crónica GP Gran Bretaña
 url: /2006/06/11/cronica-gp-gran-bretana/

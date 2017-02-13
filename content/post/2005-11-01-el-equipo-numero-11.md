@@ -5,7 +5,7 @@ category:
 2005:
 - "11"
 date: 2005-11-01T23:15:48Z
-guid: http://blog.climens.net/?p=17
+guid: http://f1blog.climens.net/?p=17
 id: 20
 title: El equipo número 11
 url: /2005/11/01/el-equipo-numero-11/
@@ -23,4 +23,4 @@ Por otro lado, hoy se ha confirmado otro piloto para Midland F1. El holandés [C
 
 Más información:
 
-  * [PaddockTalk &#8211; &#8217;11th&#8217; F1 Team Announced!](http://www.paddocktalk.com/news/html/modules.php?op=modload&name=News&file=article&sid=23528&newlang=&topic=8&catid=17)
+  * [PaddockTalk - &#8217;11th&#8217; F1 Team Announced!](http://www.paddocktalk.com/news/html/modules.php?op=modload&name=News&file=article&sid=23528&newlang=&topic=8&catid=17)

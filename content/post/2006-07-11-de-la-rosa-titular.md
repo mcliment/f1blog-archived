@@ -3,10 +3,12 @@ author: Marc Climent
 category:
 - Noticias
 - Temporada 2006
+tag:
+- De la Rosa
 2006:
 - "07"
 date: 2006-07-11T23:46:04Z
-guid: http://blog.climens.net/2006/07/11/de-la-rosa-titular/
+guid: http://f1blog.climens.net/2006/07/11/de-la-rosa-titular/
 id: 64
 title: De La Rosa titular!
 url: /2006/07/11/de-la-rosa-titular/
@@ -14,9 +16,7 @@ url: /2006/07/11/de-la-rosa-titular/
 
 Parece que la gente de McLaren no se han tomado muy bien que Juancho se pire a la Nascar sin avisar así que como castigo le han dicho que se puede ir ya, que Pedro de la Rosa seguro que lo puede hacer tan bien como él.
 
-<div style="text-align: center">
-  <img alt="Pedro de la Rosa" src="http://f1blog.climens.net/files/2006/07/delarosa.jpg" />
-</div>
+![Pedro de la Rosa](/files/2006/07/delarosa.jpg)
 
 Así que ni corto ni perezoso se va a encontrar Pedro de nuevo con 21 pilotos más en pista, en Magny Cours.
 

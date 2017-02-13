@@ -6,7 +6,7 @@ category:
 2006:
 - "08"
 date: 2006-08-26T13:41:39Z
-guid: http://blog.climens.net/2006/08/26/previo-gp-turquia/
+guid: http://f1blog.climens.net/2006/08/26/previo-gp-turquia/
 id: 75
 title: Previo GP Turquia
 url: /2006/08/26/previo-gp-turquia/
@@ -16,7 +16,7 @@ Por segunda vez el gran circo se encamina a Estambul, al circuito del diseñador
 
 Aún no es un clásico pero el año pasado, el trazado en sentido antihorario y sobretodo la complicada curva 8 dio muchos quebraderos de cabeza a los pilotos. Alonso llegaba con gran ventaja y muchos decían que iba a conservar, pero tiró al máximo y aun así los McLaren fueron superiores y Kimi se llevó la victoria a casa y no hicieron doblete porque Montoya se salió al doblar a Monteiro en una estúpida maniobra de las suyas.
 
-![Mapa GP Turquia](http://f1blog.climens.net/files/2006/08/Turquia.png)
+![Mapa GP Turquia](/files/2006/08/Turquia.png)
 
 A los que no les fue bien fue a Ferrari, tuvieron bastantes problemas y Michael chocó con Webber cuando el australiano intentaba adelantarle porque iba bastante más deprisa. Rubens al final quedó fuera de los puntos y una vuelta por detrás.
 

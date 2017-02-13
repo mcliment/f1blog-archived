@@ -6,7 +6,7 @@ category:
 2006:
 - "04"
 date: 2006-04-23T21:38:50Z
-guid: http://blog.climens.net/2006/04/23/cronica-gp-de-san-marino/
+guid: http://f1blog.climens.net/2006/04/23/cronica-gp-de-san-marino/
 id: 38
 title: Crónica GP de San Marino
 url: /2006/04/23/cronica-gp-de-san-marino/

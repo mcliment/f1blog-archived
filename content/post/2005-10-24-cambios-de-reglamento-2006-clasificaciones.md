@@ -5,9 +5,9 @@ category:
 2005:
 - "10"
 date: 2005-10-24T23:27:01Z
-guid: http://blog.climens.net/?p=14
+guid: http://f1blog.climens.net/?p=14
 id: 17
-title: Cambios de reglamento 2006 &#8211; Clasificaciones
+title: Cambios de reglamento 2006 - Clasificaciones
 url: /2005/10/24/cambios-de-reglamento-2006-clasificaciones/
 ---
 

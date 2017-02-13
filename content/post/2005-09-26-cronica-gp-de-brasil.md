@@ -6,16 +6,16 @@ category:
 2005:
 - "09"
 date: 2005-09-26T22:59:03Z
-guid: http://blog.climens.net/?p=3
+guid: http://f1blog.climens.net/?p=3
 id: 6
 title: Crónica GP de Brasil
 url: /2005/09/26/cronica-gp-de-brasil/
 ---
 
 Para los nuevos en esta humilde bitácora, no voy a hacer una crónica completa del GP ya que supongo que ya lo habéis visto, y sino, pues hay cientos de crónicas disponibles tanto en la red como en papel.
-  
+
 Solamente me gustaría comentar aquellos hechos relevantes (por lo menos me parecieron relevantes a mí) que ocurrieron durante el fin de semana del GP y por supuesto durante la carrera en sí misma.
-  
+
 Aquí paso a enumerarlos sin orden ni concierto (voy a obviar que Alonso quedó tercero y que es campeón y tal).
 
   * No llovió: Y fue una pena. Porque Brasil siempre depara lluvias espectaculares y aunque las carreras en lluvia se complican, ofrecen resultados inesperados y giros inexplicables. Otra vez será.

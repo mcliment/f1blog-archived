@@ -23,7 +23,7 @@ url: /2007/06/07/previo-gp-canada-2007/
 
 Volvemos de nuevo a este país tan grande y especial como es Canadá, justo cuando acabamos de conmemorar el 25 aniversario de la muerte de su piloto más internacional, el mítico Gilles Villeneuve que da nombre al circuito semiurbano de Montreal.
 
-![Circuito de Canadá](http://f1blog.climens.net/files/2007/06/canada1.png)
+![Circuito de Canadá](/files/2007/06/canada1.png)
 
 Lejos de ser una ratonera como es Mónaco, este circuito canadiense consta de unas cuantas zonas bastante rápidas con zig-zags bastante divertidos y espectaculares que transcurren por entre un bonito parque lleno de árboles.
 

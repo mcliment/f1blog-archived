@@ -6,7 +6,7 @@ category:
 2005:
 - "10"
 date: 2005-10-16T23:50:29Z
-guid: http://blog.climens.net/?p=11
+guid: http://f1blog.climens.net/?p=11
 id: 14
 title: Comentarios GP de China
 url: /2005/10/16/comentarios-gp-de-china/

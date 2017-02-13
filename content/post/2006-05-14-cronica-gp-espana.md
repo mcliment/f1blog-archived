@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-14T16:53:27Z
-guid: http://blog.climens.net/2006/05/14/cronica-gp-espana/
+guid: http://f1blog.climens.net/2006/05/14/cronica-gp-espana/
 id: 43
 title: Crónica GP España
 url: /2006/05/14/cronica-gp-espana/
@@ -25,8 +25,6 @@ Fisichella va con estrategia idéntica, pero la parada más tardía del Ferrari 
 El resto ya es historia. Alonso ha administrado su ventaja y no ha dejado que el alemán se acercase ni un pelo. El Ferrari tenía buena velocidad punta, pero en el segundo sector y el tercero no había nada que hacer.
 
 Alonso se ha llevado una victoria, en casa, frente a su público, dando vueltas a una velocidad increíble durante 66 vueltas. Una carrera perfecta. Nadie le ha podido hacer sombra. Los Ferrari han sido rápidos, pero no han podido mantener el ritmo de los coches azules.
-
-<!--more-->
 
 En cuanto al resto, pues no hay mucho que contar. Las caras habituales.
 

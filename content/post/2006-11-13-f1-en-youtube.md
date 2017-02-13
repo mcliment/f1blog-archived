@@ -17,7 +17,7 @@ tag:
 2006:
 - "11"
 date: 2006-11-13T00:11:34Z
-guid: http://blog.climens.net/2006/11/13/f1-en-youtube/
+guid: http://f1blog.climens.net/2006/11/13/f1-en-youtube/
 id: 97
 keywords:
 - Videos,Schumacher,Senna,Alonso,Häkkinen,Räikkönen,Montoya,Piquet,Fangio,Hill,Clark

@@ -12,11 +12,11 @@ tag:
 2006:
 - "11"
 date: 2006-11-24T21:48:00Z
-guid: http://blog.climens.net/2006/11/24/de-la-rosa-out-hamilton-in/
+guid: http://f1blog.climens.net/2006/11/24/de-la-rosa-out-hamilton-in/
 id: 98
 keywords:
 - Alonso,Häkkinen,Hamilton,McLaren,De la Rosa
-title: De la Rosa out &#8211; Hamilton in
+title: De la Rosa out - Hamilton in
 url: /2006/11/24/de-la-rosa-out-hamilton-in/
 ---
 

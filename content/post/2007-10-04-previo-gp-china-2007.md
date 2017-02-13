@@ -25,9 +25,7 @@ Después del revés de Japón para las aspiraciones de Alonso y de Räikkönen m
 
 Eso sí, es un circuito made by Tilke con lo que tiene las virtudes y los defectos de otros circuitos suyos como Turquía o Malasia: anchas pistas, largas rectas culminadas por curvas cerradas, curvones de cierta dificultad y en casos como este, formas caprichosas y un cierto aire de artificalidad. Nada nuevo.
 
-<p align="center">
-  <img src="http://f1blog.climens.net/files/2007/10/china071.png" alt="Circuito de Shangai" />
-</p>
+![Circuito de Shangai](/files/2007/10/china071.png)
 
 La carrera no tendría por supuesto el mismo interés si no hubiese pasado lo que pasó en Japón, dejando la temporada en manos de Hamilton si algo inesperado no trastoca sus planes y vuelve a ponerlo a tiro de Fernando, aunque al llevar 12 puntos de ventaja, la última palabra siempre estaría en manos del británico.
 

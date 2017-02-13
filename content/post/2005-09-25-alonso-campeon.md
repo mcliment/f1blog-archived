@@ -5,17 +5,17 @@ category:
 date: 2005-09-25T23:03:22Z
 2005:
 - "09"
-guid: http://climens.net/wordpress/?p=2
+guid: http://f1blog.climens.net/wordpress/?p=2
 id: 5
 title: Alonso campeón
 url: /2005/09/25/alonso-campeon/
 ---
 
 Pues sí, ¡qué manera más bonita de empezar una bitácora con una noticia tan jugosa como esta!
-  
+
 Finalmente, después de una interesante (por fin) temporada de Fórmula Uno, Alonso se ha proclamado campeón mundial, para alegría de algunos, para descanso de otros.
-  
-<img style="float: right;margin-left: 6px" alt="Alonso levantando el título" src="/files/alonso_campeon.jpg" />
+
+![Alonso levantando el título](/files/alonso_campeon.jpg)
   
 Y, ¿es el mundial de Alonso una buena noticia? A mí me lo parece, aunque todo tiene sus peros. Aquí algunos de los motivos por los que me parece una buena nueva, sin un orden especial:
 

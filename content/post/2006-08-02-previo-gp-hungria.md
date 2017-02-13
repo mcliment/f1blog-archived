@@ -6,7 +6,7 @@ category:
 2006:
 - "08"
 date: 2006-08-02T14:34:12Z
-guid: http://blog.climens.net/2006/08/02/previo-gp-hungria/
+guid: http://f1blog.climens.net/2006/08/02/previo-gp-hungria/
 id: 71
 title: Previo GP Hungría
 url: /2006/08/02/previo-gp-hungria/
@@ -14,9 +14,7 @@ url: /2006/08/02/previo-gp-hungria/
 
 El Hungaroring en Budapest es un circuito revirado que le trae buenos recuerdos a Alonso. Allà ganó su primer Gran Premio de Fórmula Uno hace ya tres temporadas. Es un circuito muy técnico, lleno de estrechas curvas enlazadas, que hay que tomar al milímetro.
 
-<div style="text-align: center">
-  <img alt="Mapa de Hungaroring" src="http://f1blog.climens.net/files/2006/08/Hungria.png" />
-</div>
+![Mapa de Hungaroring](/files/2006/08/Hungria.png)
 
 Ahora Renault debería demostrar que el _Mass Damper System_ que le prohibieron en Alemania era el secreto de su éxito y recuperar el terreno perdido. No está tan claro que todos los problemas de la marca del rombo vinieran de ese lado, pero ahora no van a tener excusa para un mal rendimiento.
 

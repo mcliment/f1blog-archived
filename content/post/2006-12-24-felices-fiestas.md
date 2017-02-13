@@ -9,7 +9,7 @@ tag:
 2006:
 - "12"
 date: 2006-12-24T21:03:23Z
-guid: http://blog.climens.net/2006/12/24/felices-fiestas/
+guid: http://f1blog.climens.net/2006/12/24/felices-fiestas/
 id: 99
 keywords:
 - Alonso,McLaren,Regazzoni
@@ -21,7 +21,7 @@ El equipo de 1 día en las carreras, es decir, yo mismo, desea a todos los lecto
 
 Hace tiempo que no escribo ningún post, pero la F1 en invierno no suele ser muy divertida. Pruebas y más pruebas, declaraciones de buenas intenciones para la próxima temporada y de vez en cuando alguna presentación, aunque estas aun están por venir, ya iré avisando.
 
-<img align="right" alt="Alonso en test de McLaren" src="http://www.autosport.com/gallery/picture_free.php/dir/2006dectest2/image/r_2006-12-15T124114-2" />
+<img alt="Alonso en test de McLaren" src="http://www.autosport.com/gallery/picture_free.php/dir/2006dectest2/image/r_2006-12-15T124114-2" />
 
 En cuanto a cosas destacables, los problemas contractuales de Alonso que le han hecho probar el McLaren con un mono sin pegatinas, con lo cual parecía más un piloto de Super Aguri que un campeón del mundo.
 

@@ -5,9 +5,9 @@ category:
 2005:
 - "10"
 date: 2005-10-12T22:35:20Z
-guid: http://blog.climens.net/?p=9
+guid: http://f1blog.climens.net/?p=9
 id: 12
-title: Temporada 2006 &#8211; Equipos I
+title: Temporada 2006 - Equipos I
 url: /2005/10/12/temporada-2006-equipos-i/
 ---
 

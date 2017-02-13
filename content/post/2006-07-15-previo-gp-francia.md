@@ -6,7 +6,7 @@ category:
 2006:
 - "07"
 date: 2006-07-15T15:36:36Z
-guid: http://blog.climens.net/2006/07/15/previo-gp-francia/
+guid: http://f1blog.climens.net/2006/07/15/previo-gp-francia/
 id: 66
 title: Previo GP Francia
 url: /2006/07/15/previo-gp-francia/
@@ -18,7 +18,7 @@ Además esta semana ha estado llena de novedades. Ya hemos comentado el tema de 
 
 Por otro lado, cambios en las normas. En clasificación, ahora sólo tendrán 15 minutos en la última ronda para que no pierdan tanto tiempo malgastando combustible. Por otro lado, no se va a permitir usar el tercer coche en los oficiales del viernes, ya que algunos equipos se quejaron de que daba cierta ventaja a los que tenían permitida esta posibilidad.
 
-![Circuit de Nevers Magny Cours](http://f1blog.climens.net/files/2006/07/France.png)
+![Circuit de Nevers Magny Cours](/files/2006/07/France.png)
 
 Mucho se dice que Magny Cours es un circuito soso, aséptico y sin interés especial. Por un lado, su localización no es muy interesante, Nevers es bonito, pero no un sitio divertido para albergar a todos los equipos y el público. Por otro lado, es un circuito completamente artificial, que coge ideas de otros circuitos y las pega una tras otra.
 

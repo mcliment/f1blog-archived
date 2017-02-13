@@ -5,7 +5,7 @@ category:
 2006:
 - "04"
 date: 2006-04-06T23:34:45Z
-guid: http://blog.climens.net/?p=31
+guid: http://f1blog.climens.net/?p=31
 id: 35
 title: Llego tarde para 2008
 url: /2006/04/06/llego-tarde-para-2008/

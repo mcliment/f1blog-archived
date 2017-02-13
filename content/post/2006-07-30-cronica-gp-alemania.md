@@ -6,7 +6,7 @@ category:
 2006:
 - "07"
 date: 2006-07-30T23:58:29Z
-guid: http://blog.climens.net/2006/07/30/cronica-gp-alemania/
+guid: http://f1blog.climens.net/2006/07/30/cronica-gp-alemania/
 id: 70
 title: Crónica GP Alemania
 url: /2006/07/30/cronica-gp-alemania/

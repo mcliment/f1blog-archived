@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-10T23:45:41Z
-guid: http://blog.climens.net/2006/05/10/ide-se-queda-sin-carne/
+guid: http://f1blog.climens.net/2006/05/10/ide-se-queda-sin-carne/
 id: 41
 title: Ide se queda sin carné
 url: /2006/05/10/ide-se-queda-sin-carne/

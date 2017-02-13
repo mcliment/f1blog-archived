@@ -5,7 +5,7 @@ category:
 2006:
 - "03"
 date: 2006-03-11T22:13:20Z
-guid: http://blog.climens.net/?p=26
+guid: http://f1blog.climens.net/?p=26
 id: 29
 title: Clasificaciones 2006 (Aclaración)
 url: /2006/03/11/clasificaciones-2006-aclaracion/

@@ -51,7 +51,7 @@ En resumen: una carrera complicada, quizás más que Japón por las condiciones 
 Otras crónicas:
 
   * [Gran Premio de China 2007](http://f1dehoyydesiempre.blogspot.com/2007/10/gran-premio-de-china-2007.html) [f1 de hoy y de siempre]
-  * China 2007 &#8211; La crónica [Crónicas de Fórmula 1]
+  * China 2007 - La crónica [Crónicas de Fórmula 1]
   * [El abandono de Hamilton hace posible el Mundial a Alonso](http://www.formulaf1.es/58/el-abandono-de-hamilton-hace-posible-el-mundial-a-alonso/) [Fórmula F1]
   * [Hubo milagro y el mundial se decidirá en Interlagos](http://www.racingpasion.com/2007/10/07-hubo-milagro-y-el-mundial-se-decidira-en-interlagos) [racingpasión.com]
   * [Hamilton no acaba la carrera y Fernando termina segundo](http://soloformula1.wordpress.com/2007/10/07/hamilton-no-acaba-la-carrera-y-fernando-termina-segundo/) [Sólo Fórmula 1]

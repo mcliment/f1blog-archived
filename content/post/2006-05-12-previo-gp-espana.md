@@ -6,7 +6,7 @@ category:
 2006:
 - "05"
 date: 2006-05-12T22:02:13Z
-guid: http://blog.climens.net/2006/05/12/previo-gp-espana/
+guid: http://f1blog.climens.net/2006/05/12/previo-gp-espana/
 id: 42
 title: Previo GP España
 url: /2006/05/12/previo-gp-espana/
@@ -22,9 +22,7 @@ A esto hay que añadir, que no es un circuito que se le de demasiado bien a Alon
 
 En cuanto al resto, pues si Toyota no da la sorpresa, no es de esperar que mejore su situación, pero cuanto más apretado esté el final de la tabla mejor, a ver si los Super Aguri consiguen reducir diferencias.
 
-<div style="text-align: center">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GrandPrix_Circuit_Spain_2006.svg/230px-GrandPrix_Circuit_Spain_2006.svg.png" />
-</div>
+<img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/GrandPrix_Circuit_Spain_2006.svg/230px-GrandPrix_Circuit_Spain_2006.svg.png" />
 
 En cuanto al trazado, pues como se aprecia en la imagen tiene forma de cruasán. Empieza con una larga recta que frena fuerte para tomar la curva Elf, después viene una curva a izquierda que enlaza con una larga curva abierta a derechas en subida, la curva Renault, casi a fondo.
 

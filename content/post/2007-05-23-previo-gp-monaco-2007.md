@@ -23,9 +23,7 @@ Hay pocas cosas que decir que no se sepan sobre el trazado monegasco: que si es 
 
 La créme de la créme de la alta sociedad se juntan para el evento en la Costa Azul. No importa demasiado la F1, sólo es una excusa más para dejarse ver y lucir palmito. Además muchos patrocinadores y escuderías se nutren de gente con mucha pasta y ahí en Mónaco tienen una oportunidad de oro para las relaciones públicas.
 
-<p style="text-align: center">
-  <img src="http://f1blog.climens.net/files/2007/05/monaco1.png" alt="monaco.png" />
-</p>
+![Monaco](/files/2007/05/monaco1.png)
 
 Pero dejando los temas extradeportivos a un lado, Monte Carlo es un circuito impresionante, tanto para el público como para los pilotos. Las calles estrechas, los guardarraíles pasando a escasos centímetros de la rueda, las escapatorias nulas, el túnel&#8230; todo ello forma parte de un circuito único en su especie y que sobrevive gracias a que es, como por ejemplo Ferrari, parte de la historia viva de la F1.
 

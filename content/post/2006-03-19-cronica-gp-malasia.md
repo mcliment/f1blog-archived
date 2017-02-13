@@ -6,7 +6,7 @@ category:
 2006:
 - "03"
 date: 2006-03-19T23:17:46Z
-guid: http://blog.climens.net/?p=30
+guid: http://f1blog.climens.net/?p=30
 id: 32
 title: Crónica GP Malasia
 url: /2006/03/19/cronica-gp-malasia/

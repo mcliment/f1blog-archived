@@ -6,7 +6,7 @@ category:
 2006:
 - "03"
 date: 2006-03-11T14:19:48Z
-guid: http://blog.climens.net/?p=25
+guid: http://f1blog.climens.net/?p=25
 id: 28
 title: Previo GP Bahrein
 url: /2006/03/11/previo-gp-bahrein/
@@ -18,9 +18,7 @@ La F1 vuelve a Bahrein, al desierto, a un circuito fino, abrasivo y lleno de are
 
 Con estas dos variables, el resultado es imprevisible. A esto añadir los nuevos motores V8 que son toda una novedad y también el sistema de clasificación a 3 tandas, que va a dar muchísimo trabajo a los pilotos. Será interesante ves este sistema ya que ofrece por lo menos animación continua encima de la pista.
 
-<div style="text-align: center">
-  <img alt="Mapa del circuito" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahrain_International_Circuit--Grand_Prix_Layout.svg/500px-Bahrain_International_Circuit--Grand_Prix_Layout.svg.png" />
-</div>
+<img alt="Mapa del circuito" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahrain_International_Circuit--Grand_Prix_Layout.svg/500px-Bahrain_International_Circuit--Grand_Prix_Layout.svg.png" />
 
 En cuanto la circuito, el un circuito algo complejo. Para empezar siempre está sucio de arena, especialmente las partes por las que no se rueda y el viento es algo habitual. A parte de la larguísima recta de boxes, hay un montón de curvas de todo tipo, rapidas y lentas y enlazadas sobre una pista que parece una alfombra negra, con unas escapatorias generosas y asfaltadas, pintadas de un color arena del desierto.
 

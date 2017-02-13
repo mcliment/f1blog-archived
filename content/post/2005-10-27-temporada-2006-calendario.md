@@ -5,51 +5,33 @@ category:
 2005:
 - "10"
 date: 2005-10-27T23:38:25Z
-guid: http://blog.climens.net/?p=15
+guid: http://f1blog.climens.net/?p=15
 id: 18
-title: Temporada 2006 &#8211; Calendario
+title: Temporada 2006 - Calendario
 url: /2005/10/27/temporada-2006-calendario/
 ---
 
 Ya ha salido el calendario definitivo de la temporada 2006. Queda tal que así:
 
-&#8211; Bahrain (Bahrain) &#8211; 12 de Marzo
-  
-&#8211; Malasia (Sepang) &#8211; 19 de Marzo
-  
-&#8211; Australia (Melbourne) &#8211; 2 de Abril
-  
-&#8211; San Marino (Imola) &#8211; 23 de Abril
-  
-&#8211; Europa (Nürburgring, Alemania) &#8211; 7 de Mayo
-  
-&#8211; España (Barcelona) &#8211; 14 de Mayo
-  
-&#8211; Mónaco (Monte Carlo) &#8211; 28 de Mayo
-  
-&#8211; Gran Bretaña (Silverstone) &#8211; 11 de Junio
-  
-&#8211; Canada (Montreal) &#8211; 25 de Junio
-  
-&#8211; Estados Unidos (Indianapolis) &#8211; 2 de Julio
-  
-&#8211; Francia (Magny-Cours) &#8211; 16 de Julio
-  
-&#8211; Alemania (Hockenheim) &#8211; 30 de Julio
-  
-&#8211; Hungría (Hungaroring) &#8211; 6 de Agosto
-  
-&#8211; Turquía (Istanbul) &#8211; 27 de Agosto
-  
-&#8211; Italia (Monza) &#8211; 10 de Septiembre
-  
-&#8211; <strike>Belgica (Spa-Francorchamps) &#8211; 17 de Septiembre</strike> &#8211; _Actualizado_
-  
-&#8211; **China (Shanghai)** &#8211; 1 de Octubre &#8211; _Actualizado_
-  
-&#8211; **Japón (Suzuka)** &#8211; 8 de Octubre &#8211; _Actualizado_
-  
-&#8211; Brasil (Interlagos) &#8211; 22 de Octubre
+- Bahrain (Bahrain) - 12 de Marzo
+- Malasia (Sepang) - 19 de Marzo
+- Australia (Melbourne) - 2 de Abril
+- San Marino (Imola) - 23 de Abril
+- Europa (Nürburgring, Alemania) - 7 de Mayo
+- España (Barcelona) - 14 de Mayo
+- Mónaco (Monte Carlo) - 28 de Mayo
+- Gran Bretaña (Silverstone) - 11 de Junio
+- Canada (Montreal) - 25 de Junio
+- Estados Unidos (Indianapolis) - 2 de Julio
+- Francia (Magny-Cours) - 16 de Julio
+- Alemania (Hockenheim) - 30 de Julio
+- Hungría (Hungaroring) - 6 de Agosto
+- Turquía (Istanbul) - 27 de Agosto
+- Italia (Monza) - 10 de Septiembre
+- <strike>Belgica (Spa-Francorchamps) - 17 de Septiembre</strike> - _Actualizado_
+- **China (Shanghai)** - 1 de Octubre - _Actualizado_
+- **Japón (Suzuka)** - 8 de Octubre - _Actualizado_
+- Brasil (Interlagos) - 22 de Octubre
 
 Como podéis apreciar los que habéis seguido la temporada de este año que termina, no ha habido cambios significativos, solo algún desplazamiento arriba o abajo. Afortunadamente no ha caido nada, y Spa y Silverstone, que siempre estan en la cuerda floja parece que seguirán un año más.
   
