@@ -1,4 +1,9 @@
-{{ define "title" }} :: {{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}{{ else }}{{ index $.Site.Data.tags .Title }}{{ end }}{{ end }}
+{{ define "title" }} :: 
+	{{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}
+	{{ else if eq .Data.Singular "tags" }}{{ index $.Site.Data.tags .Title }}
+	{{ else if gt .Data.Singular 2000 }}{{ .Data.Singular }} :: {{ index $.Site.Data.months .Title }}
+	{{ end }}
+{{ end }}
 
 {{ define "main" }}
 <div id="content" class="narrowcolumn">
