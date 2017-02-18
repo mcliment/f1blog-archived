@@ -16,9 +16,9 @@ title: Bernie 1 - Sun 0 (o cómo ver las cosas deste otro punto de vista)
 url: /2007/05/31/bernie-1-sun-0-o-como-ver-las-cosas-deste-otro-punto-de-vista/
 ---
 
-Ayer [escribí un post](http://f1blog.climens.net/2007/05/30/mclaren-1-bernie-0/) sobre la decisión de alguien de investigar a McLaren, el absurdo de tal decisión y la absolución del equipo en pro de la cordura.
+Ayer [escribí un post](/2007/05/30/mclaren-1-bernie-0/) sobre la decisión de alguien de investigar a McLaren, el absurdo de tal decisión y la absolución del equipo en pro de la cordura.
 
-En uno de los [comentarios de j.arce](http://f1blog.climens.net/2007/05/30/mclaren-1-bernie-0/#comment-2922) (ya te he enlazado [el blog](http://www.f1dehoyydesiempre.blogspot.com/) ;-)) lanzaba una pregunta inocente:
+En uno de los [comentarios de j.arce](/2007/05/30/mclaren-1-bernie-0/#comment-2922) (ya te he enlazado [el blog](http://www.f1dehoyydesiempre.blogspot.com/) ;-)) lanzaba una pregunta inocente:
 
 > &#8220;¿Quién inició la investigación, la F.I.A. o el Sun?&#8221;
 

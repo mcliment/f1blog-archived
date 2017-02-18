@@ -23,7 +23,7 @@ url: /2006/10/18/calendario-y-normas-2007/
 
 En una reunión mantenida hoy en el World Motor Sport Council celebrado hoy en Barcelona, se han decidido entre otras cosas, el calendario definitivo de 2007 y las normas que se aplicarán en dicha temporada.
 
-El calendario, [casi igual que el provisional](http://f1blog.climens.net/2006/08/29/posible-calendario-2007/ "Posible Calendario 2007"), es el siguiente:
+El calendario, [casi igual que el provisional](/2006/08/29/posible-calendario-2007/ "Posible Calendario 2007"), es el siguiente:
 
   * Australia - Albert Park - 18 de marzo - _movido desde el tercero_
   * Malasia - Sepang - 8 de abril

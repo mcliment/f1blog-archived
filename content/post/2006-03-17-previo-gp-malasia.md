@@ -12,7 +12,7 @@ title: Previo GP Malasia
 url: /2006/03/17/previo-gp-malasia/
 ---
 
-Aun no nos hemos recuperado del aluvión de información que nos brindó el [primer gran premio](http://f1blog.climens.net/2006/03/15/cronica-gp-bahrein/ "Ver 'Crónica GP Barhain'") de la temporada cuando ya tenemos aquí el segundo. Nos vamos aún más al este, hasta el Gran Premio de Malasia, en Sepang.
+Aun no nos hemos recuperado del aluvión de información que nos brindó el [primer gran premio](/2006/03/15/cronica-gp-bahrein/ "Ver 'Crónica GP Barhain'") de la temporada cuando ya tenemos aquí el segundo. Nos vamos aún más al este, hasta el Gran Premio de Malasia, en Sepang.
 
 El circuito de Sepang es un circuito impresionante en su construcción, diseñado por el alemán Hermann Tilke. Su trazado ancho, muy ancho, permite que los pilotos disfruten haciendo diferentes trazadas en busca de algún adelantamiento.
 

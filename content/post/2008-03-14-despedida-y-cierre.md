@@ -18,7 +18,7 @@ Ni un resumen de la temporada 2007, ni una previa de la que empieza, todo apunta
 
 Ya cuando acabó Brasil dije que no más, pero pensé: bueno, quizás de cara a la próxima temporada me apetezca un poco más seguir con mis crónicas en el blog, pero la verdad es que no. Y para hacerlo a desgana, pues mejor no lo hago.
 
-Cuando empecé el blog, el 26 de septiembre de 2005, curiosamente con el [GP de Brasil](http://f1blog.climens.net/2005/09/26/cronica-gp-de-brasil/), último de la temporada en que Alonso ganó su primer título, escribía más y poco a poco dejé de comentar las noticias o escribir artículos técnicos para centrarme solamente en las previas y las crónicas. Previas que escribía a toda prisa y crónicas que a veces hacía a horas intempestivas o días después porque no había podido ver la carrera.
+Cuando empecé el blog, el 26 de septiembre de 2005, curiosamente con el [GP de Brasil](/2005/09/26/cronica-gp-de-brasil/), último de la temporada en que Alonso ganó su primer título, escribía más y poco a poco dejé de comentar las noticias o escribir artículos técnicos para centrarme solamente en las previas y las crónicas. Previas que escribía a toda prisa y crónicas que a veces hacía a horas intempestivas o días después porque no había podido ver la carrera.
 
 Además, ahora hay muchos blogs de F1 interesantes, sobretodo a raíz del ascenso de Alonso en la F1. Por ejemplo yo habitualmente leo, sin orden particular:
 

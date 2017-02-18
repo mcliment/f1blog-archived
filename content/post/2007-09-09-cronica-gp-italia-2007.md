@@ -23,7 +23,7 @@ title: Crónica GP Italia 2007
 url: /2007/09/09/cronica-gp-italia-2007/
 ---
 
-Tal como hiciera Massa en [el pasado GP de Turquía](http://f1blog.climens.net/2007/08/26/cronica-gp-turquia-2007/), Alonso ha dominado en Monza de cabo a rabo, sin apenas incidentes ni complicaciones. Una carrera algo más interesante de lo habitual con adelantamientos al final de la recta de meta y alguna maniobra memorable.
+Tal como hiciera Massa en [el pasado GP de Turquía](/2007/08/26/cronica-gp-turquia-2007/), Alonso ha dominado en Monza de cabo a rabo, sin apenas incidentes ni complicaciones. Una carrera algo más interesante de lo habitual con adelantamientos al final de la recta de meta y alguna maniobra memorable.
 
 La salida ha sido menos incidentada de lo habitual en el trazado italiano. El McLaren de Alonso ha salido bien pero Hamilton se ha visto rebasado por Massa, aunque hábilmente y jugándosela ha apurado muchísimo la frenada y le ha pasado por fuera en la chicane, aunque se han tocado ligeramente y ha tenido que atajar la curva. Ha sido investigado por los comisarios pero al final no ha sido nada por el toque, no ha sido un atajo voluntario, aunque a primera vista me lo había parecido.
 
