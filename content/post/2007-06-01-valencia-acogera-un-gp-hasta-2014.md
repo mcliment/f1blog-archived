@@ -16,7 +16,7 @@ title: Valencia acogerá un GP hasta 2014
 url: /2007/06/01/valencia-acogera-un-gp-hasta-2014/
 ---
 
-Hace algún tiempo [mostré mi escepticismo](http://f1blog.climens.net/2007/03/27/%c2%bfvalencia-sede-de-un-gp/) sobre la celebración de un Gran Premio en Valencia (dónde casualmente resido) y, aunque la decisión iba en contra de todos los predicados de la FIA y la organización de la F1 en los últimos años, había una posibilidad:
+Hace algún tiempo [mostré mi escepticismo](/2007/03/27/valencia-sede-de-un-gp/) sobre la celebración de un Gran Premio en Valencia (dónde casualmente resido) y, aunque la decisión iba en contra de todos los predicados de la FIA y la organización de la F1 en los últimos años, había una posibilidad:
 
 > &#8220;Sólo hay una cosa que puede salvar esta cita: la pasta. El gobierno de la Generalitat, como ha hecho con la Copa del América, pondrá toda la carne en el asador y los duros que haga falta encima de la mesa&#8230;&#8221;
 
