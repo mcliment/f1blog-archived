@@ -583,12 +583,6 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/03/</loc>
-    <lastmod>2006-03-19T23:17:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://f1blog.climens.net/2007/03/</loc>
     <lastmod>2007-03-27T20:27:46+00:00</lastmod>
     <priority>0</priority>
@@ -601,8 +595,8 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/04/</loc>
-    <lastmod>2006-04-23T21:38:50+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2006/03/</loc>
+    <lastmod>2006-03-19T23:17:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -613,8 +607,8 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/05/</loc>
-    <lastmod>2006-05-28T17:01:08+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2006/04/</loc>
+    <lastmod>2006-04-23T21:38:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -625,8 +619,8 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/06/</loc>
-    <lastmod>2006-06-30T21:16:25+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2006/05/</loc>
+    <lastmod>2006-05-28T17:01:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -637,8 +631,8 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/07/</loc>
-    <lastmod>2006-07-30T23:58:29+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2006/06/</loc>
+    <lastmod>2006-06-30T21:16:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -649,14 +643,26 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2006/08/</loc>
-    <lastmod>2006-09-08T19:20:26+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2006/07/</loc>
+    <lastmod>2006-07-30T23:58:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://f1blog.climens.net/2007/08/</loc>
     <lastmod>2007-08-26T23:13:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://f1blog.climens.net/2006/08/</loc>
+    <lastmod>2006-09-08T19:20:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://f1blog.climens.net/2007/09/</loc>
+    <lastmod>2007-09-30T11:22:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -673,14 +679,14 @@
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/2007/09/</loc>
-    <lastmod>2007-09-30T11:22:15+00:00</lastmod>
+    <loc>http://f1blog.climens.net/</loc>
+    <lastmod>2008-03-14T19:11:05+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://f1blog.climens.net/</loc>
-    <lastmod>2008-03-14T19:11:05+00:00</lastmod>
+    <loc>http://f1blog.climens.net/2007/10/</loc>
+    <lastmod>2007-10-21T20:20:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -693,12 +699,6 @@
   <url>
     <loc>http://f1blog.climens.net/2006/10/</loc>
     <lastmod>2006-10-28T14:33:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://f1blog.climens.net/2007/10/</loc>
-    <lastmod>2007-10-21T20:20:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
