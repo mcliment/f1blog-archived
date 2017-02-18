@@ -16,12 +16,12 @@
 	<div class="navigation">
 		{{ if .Paginator.HasNext }}
 		<div class="alignleft">
-			<a rel="next" href="{{ .Paginator.Next.URL | absURL }}">&laquo; Entradas anteriores</a>
+			<a rel="next" href="{{ .Paginator.Next.URL | relURL }}">&laquo; Entradas anteriores</a>
 		</div>
     	{{ end }}
     	{{ if .Paginator.HasPrev }}
 		<div class="alignright">
-			<a rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">Entradas siguientes &raquo;</a>
+			<a rel="prev" href="{{ .Paginator.Prev.URL | relURL }}">Entradas siguientes &raquo;</a>
 		</div>
     	{{ end }}
 	</div>

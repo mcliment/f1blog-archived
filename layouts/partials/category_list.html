@@ -2,7 +2,7 @@
 {{ if not (eq (len .Site.Taxonomies.category) 0) }}
     {{ range $name, $items := .Site.Taxonomies.category }}
     {{ $url := printf "%s/%s/" "category" ($name | urlize)}}
-    <li><a href="{{ $url | absURL }}">{{ $name }}</a> ({{ len $items }})</li>
+    <li><a href="{{ $url | relURL }}">{{ $name }}</a> ({{ len $items }})</li>
     {{ end }}
 {{ end }}
 {{ end }}

@@ -4,6 +4,6 @@
     {{ $year := int (index $split 1) }}
     {{ if gt $year 2000 }}
     {{ $url := printf "%s/%s/" (index $split 1) (index $split 0) }}
-    <li><a href="{{ $url | absURL }}">{{ index $.Site.Data.months $month }} {{ index $split 1 }}</a></li>
+    <li><a href="{{ $url | relURL }}">{{ index $.Site.Data.months $month }} {{ index $split 1 }}</a></li>
     {{ end }}
 {{ end }}

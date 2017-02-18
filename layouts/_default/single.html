@@ -31,7 +31,7 @@
                     {{ $categoryCount := len .Params.category }}
                     {{ range $idx, $category := .Params.category }}
                         {{ $url := printf "category/%s" ($category | urlize | lower) }}
-                        <a rel="category tag" href="{{ $url | absURL }}">{{ $category }}</a>{{ if lt $idx (sub $categoryCount 1) }}, {{ end }}
+                        <a rel="category tag" href="{{ $url | relURL }}">{{ $category }}</a>{{ if lt $idx (sub $categoryCount 1) }}, {{ end }}
                     {{ end }}
                     {{ end }}
                 </small>
