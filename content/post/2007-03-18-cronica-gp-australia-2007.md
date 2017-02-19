@@ -45,5 +45,5 @@ De aquí a tres semanas, la continuación de la historia en Malaysia.
 
 Si queréis otro punto de vista:
 
-  * [Räikkönen, intratable en Australia](http://www.racingpasion.com/2007/03/18-raikkonen-intratable-en-australia) [racingpasion.com]
+  * [Räikkönen, intratable en Australia](https://www.motorpasion.com/formula1/raikkonen-intratable-en-australia) [racingpasion.com]
   * [Räikkönen wins on Ferrari debut](http://www.autosport.com/news/report.php/id/57443) [autosport.com]

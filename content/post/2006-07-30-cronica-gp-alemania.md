@@ -42,4 +42,4 @@ Más emoción la semana que viene desde Hungría.
 
 Otras crónicas:
 
-  * [El mundial de F1 se tiñe de Rojo](http://www.motorpasion.com/archivos/2006/07/30-el-mundial-de-f1-se-tine-de-r.php) [Motorpasión]
+  * [El mundial de F1 se tiñe de Rojo](https://www.motorpasion.com/formula1/el-mundial-de-f1-se-tine-de-rojo) [Motorpasión]

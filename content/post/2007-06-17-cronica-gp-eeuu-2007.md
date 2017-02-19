@@ -51,5 +51,5 @@ Bueno, en dos semanas, la F1 vuelve a Europa, con el Gran Premio de Francia en M
 
 Otras crónicas:
 
-  * [Alonso no puede con Hamilton en Indianápolis](http://www.racingpasion.com/2007/06/17-alonso-no-puede-con-hamilton-en-indianapolis) [racingpasión.com]
+  * [Alonso no puede con Hamilton en Indianápolis](https://www.motorpasion.com/formula1/alonso-no-puede-con-hamilton-en-indianapolis) [racingpasión.com]
   * [Hamilton leads McLaren 1-2 at Indy](http://www.autosport.com/news/report.php/id/59913) [autosport.com]

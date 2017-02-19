@@ -31,7 +31,7 @@ Por otro lado, los asuntos extradeportivos vuelven a eclipsar una vez más la ca
 
 En cuanto a la carrera de hoy, lo más emocionante e interesante han sido los 10 primeros segundos de carrera: la primera curva y la llegada a Eau Rouge. Kimi y Massa han salido sin problemas cogiendo sus posiciones y dejando a los McLaren detrás. Ahí se libraba una batalla con numerosas connotaciones: Alonso y Hamilton han llegado casi emparejados a la primera curva. El británico por fuera y Alonso le ha dejado sin espacio por lo que ha tenido que hacer una excursión por la escapatoria (que no era de tierra por suerte para él), mientras que el Asturiano ha tocado ligeramente la hierba. Pero Lewis se ha reincorporado de nuevo casi parejos pero Fernando tenía otra vez el lado bueno de Eau Rouge y ahí si que no caben dos coches, así que el rookie superdotado ha tenido que aflojar un poco.
 
-Como [ha dicho Hamilton, la maniobra ha sido dura](http://www.racingpasion.com/2007/09/16-a-hamilton-no-le-gusto-nada-la-salida-de-alonso), pero legal. Fernando no ha estado exento de maniobras de este tipo durante la temporada, contra Massa y contra Lewis y él había sido el de atrás por el lado malo: los alonsistas les habían puesto a caldo por su juego sucio y por no dejar sitio: chorradas. Fernando hace lo mismo que todos, que es como hay que hacer carreras: adelantar a los de delante y en su defecto, que no te adelanten los de atrás.
+Como [ha dicho Hamilton, la maniobra ha sido dura](https://www.motorpasion.com/formula1/a-hamilton-no-le-gusto-nada-la-salida-de-alonso), pero legal. Fernando no ha estado exento de maniobras de este tipo durante la temporada, contra Massa y contra Lewis y él había sido el de atrás por el lado malo: los alonsistas les habían puesto a caldo por su juego sucio y por no dejar sitio: chorradas. Fernando hace lo mismo que todos, que es como hay que hacer carreras: adelantar a los de delante y en su defecto, que no te adelanten los de atrás.
 
 El resto de la carrera ha sido un paseo de los coches rojos y plateados. El único detalle que ha dado un poco de tensión entre los McLaren ha sido la tardía entrada de Lewis en el segundo _stint_, que de haber estado más cerca de Fernando y con ayuda del tráfico podría haber sido una buena estrategia para cogerle la posición. Eso ha sido todo.
 
@@ -55,7 +55,7 @@ En dos semanas, el Gran Premio de Japón en Fuji, un circuito nuevo para casi to
 
 Otras crónicas:
 
-  * [Victoria de Räikkönen y título mundial para Ferrari](http://www.racingpasion.com/2007/09/16-victoria-de-raikkonen-y-titulo-mundial-para-ferrari) [racingpasión.com]
+  * [Victoria de Räikkönen y título mundial para Ferrari](https://www.motorpasion.com/formula1/victoria-de-raikkonen-y-titulo-mundial-para-ferrari) [racingpasión.com]
   * [Perfecto para Ferrari](http://f1dehoyydesiempre.blogspot.com/2007/09/gran-premio-de-blgica-2007.html) [f1 de hoy y de siempre]
   * [Alonso acaba tercero y le quita otro punto a Hamilton](http://soloformula1.wordpress.com/2007/09/16/alonso-acaba-tercero-y-le-quita-otro-punto-a-hamilton/) [solo f1]
   * [Doblete y título mundial para Ferrari en Spa](http://f1-poleposition.blogspot.com/2007/09/doblete-y-ttulo-mundial-para-ferrari-en.html) [f1 pole position]

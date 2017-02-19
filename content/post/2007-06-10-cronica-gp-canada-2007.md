@@ -47,5 +47,5 @@ La semana que viene más, desde Indianapolis, en el GP de los Estados Unidos. Ha
 
 Otras crónicas:
 
-  * [Hamilton se impone en un caótico GP de Canadá](http://www.racingpasion.com/2007/06/10-hamilton-se-impone-en-un-caotico-gp-de-canada) [racingpasión.com]
+  * [Hamilton se impone en un caótico GP de Canadá](https://www.motorpasion.com/formula1/hamilton-se-impone-en-un-caotico-gp-de-canada) [racingpasión.com]
   * [Hamilton takes maiden win in chaotic GP](http://www.autosport.com/news/report.php/id/59630) [autosport.com]

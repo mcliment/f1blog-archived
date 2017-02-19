@@ -15,7 +15,7 @@ url: /2005/10/03/las-banderas/
 
 En esta bitácora no se discrimina a nadie y el otro dia, hablando con la amiga Anita, me dijo que nunca había visto carreras de Fórmula Uno hasta que me conoció y luego tuvo una compañera de piso muy fan de Alonso que se tragaba todas las carreras (aunque me consta que ya las veía antes del auge de Fernandito).
   
-Se puede encontrar una [exhaustiva explicación](http://www.formula1.com/inside_f1/understanding_the_sport/5282.html) en la [página oficial](http://www.formula1.com/) del campeonato, pero intentaré presentar una versión más didáctica.
+Se puede encontrar una [exhaustiva explicación](https://www.formula1.com/en/championship/inside-f1/understanding-f1-racing/Flags.html) en la [página oficial](http://www.formula1.com/) del campeonato, pero intentaré presentar una versión más didáctica.
   
 Las más importantes y más habituales son:
 

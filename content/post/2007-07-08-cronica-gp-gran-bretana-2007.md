@@ -59,5 +59,5 @@ El campeonato en definitiva no cambia mucho. Alonso recorta a 12 puntos la difer
 Otras crónicas:
 
   * [Räikkönen storms to British GP win](http://www.autosport.com/news/report.php/id/60622) [autosport.com]
-  * [Räikkönen se impone a los McLaren en Silverstone](http://www.racingpasion.com/2007/07/08-raikkonen-se-impone-a-los-mclaren-en-silverstone) [racingpasión.com]
+  * [Räikkönen se impone a los McLaren en Silverstone](https://www.motorpasion.com/formula1/raikkonen-se-impone-a-los-mclaren-en-silverstone) [racingpasión.com]
   * [Crónica GP de Gran Bretaña](http://f1dehoyydesiempre.blogspot.com/2007/07/crnica-gp-gran-bretaa.html) [F1 de hoy y de siempre]

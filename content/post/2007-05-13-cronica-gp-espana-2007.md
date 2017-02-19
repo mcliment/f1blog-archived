@@ -47,12 +47,12 @@ Por fin Kovalainen empieza a demostrar su valía en un circuito que conoce, a ve
 
 Y en el último punto ha llegado el Super Aguri de Sato. Primer punto para la escudería japonesa que ha dominado a los Honda este fin de semana que cada vez hacen más el ridículo ¿hasta cuando pretenden estar ahí? Es lamentable que un pequeño equipo de _garagistes_ con un chasis del año pasado y un presupuesto nada abultado pueda doblegar al gigante. Sólo hay 3 equipos sin puntos: Spyker, Toro Rosso y&#8230; Honda. Y es que no es razonable que acaben 10º y 12º. Más teniendo en cuenta que ha habido 8 retidados.
 
-Y poco más ha dado de si este Gran Premio de España, donde muchos creían que el guión estaba ya escrito y el asturiano Alonso se subiría a lo más alto del podio. Hay quien dice que ha sido aburrido&#8230; a mi no me lo ha parecido tanto. Si quieren toques que miren la [WTCC](http://www.fiawtcc.es/) y si quieren adelantamientos, [MotoGP](http://www.motogp.com/es/motogp/index.htm).
+Y poco más ha dado de si este Gran Premio de España, donde muchos creían que el guión estaba ya escrito y el asturiano Alonso se subiría a lo más alto del podio. Hay quien dice que ha sido aburrido&#8230; a mi no me lo ha parecido tanto. Si quieren toques que miren la [WTCC](http://www.fiawtcc.es/) y si quieren adelantamientos, [MotoGP](http://www.motogp.com/).
 
 Nos vemos en dos semanas, el 27 de Mayo en Montecarlo. Y aviso: no se van a ver adelantamientos
 
 Más opiniones/crónicas:
 
-  * [Massa gana una carrera aburrida](http://www.racingpasion.com/2007/05/13-massa-gana-una-carrera-aburrida) [[racingpasión.com](http://www.racingpasion.com)]
+  * [Massa gana una carrera aburrida](https://www.motorpasion.com/formula1/massa-gana-una-carrera-aburrida) [[racingpasión.com](http://www.racingpasion.com)]
   * [Massa cruises to Spanish GP win](http://www.autosport.com/news/report.php/id/58781) [[autosport.com](http://www.autosport.com)]
   * [España 2007: Final de carrera](http://cronicasf1.blogspot.com/2007/05/espaa-2007-final-de-carrera.html) [[cronicasf1.blogspot.com](http://cronicasf1.blogspot.com)]

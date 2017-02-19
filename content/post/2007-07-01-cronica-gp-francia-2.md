@@ -60,5 +60,5 @@ Bueno, pues la semana que viene más desde Silverstone, donde Lewis hará lo que
 Otras crónicas:
 
   * [Raikkonen leads Ferrari 1-2 in France](http://www.autosport.com/news/report.php/id/60384) [autosport.com]
-  * [Raikkonen y Ferrari resucitan en Magny Cours](http://www.racingpasion.com/2007/07/01-raikkonen-y-ferrari-resucitan-en-magny-cours) [racingpasión.com]
+  * [Raikkonen y Ferrari resucitan en Magny Cours](https://www.motorpasion.com/formula1/raikkonen-y-ferrari-resucitan-en-magny-cours) [racingpasión.com]
   * [Kimi se reivindica](http://f1dehoyydesiempre.blogspot.com/2007/07/gp-francia-2007.html) [f1 de hoy y de siempre]

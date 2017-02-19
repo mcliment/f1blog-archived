@@ -66,4 +66,4 @@ Más crónicas en:
 
   * [Alonso takes victory in Monaco](http://www.gpupdate.net/en/f1-news/119572/alonso-takes-victory-in-monaco/) [f1racing.net]
   * [Alonso wins while competitors retire](http://www.f1technical.net/news/3107) [f1technical.net]
-  * [Alonso se corona en el principado](http://www.motorpasion.com/archivos/2006/05/28-alonso-se-corona-en-el-princip.php) [motorpasion.com]
+  * [Alonso se corona en el principado](https://www.motorpasion.com/formula1/alonso-se-corona-en-el-principado) [motorpasion.com]

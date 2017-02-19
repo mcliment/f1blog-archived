@@ -70,7 +70,7 @@ Así que cada uno saque conclusiones, pero yo me doy por satisfecho con el resul
 
 Otras crónicas:
 
-  * [¡Kimi Räikkönen, Campeón del Mundo a la tercera!](http://www.racingpasion.com/2007/10/21-kimi-raikkonen-campeon-del-mundo-a-la-tercera) [racingpasion.com]
+  * [¡Kimi Räikkönen, Campeón del Mundo a la tercera!](https://www.motorpasion.com/formula1/kimi-raikkonen-campeon-del-mundo-a-la-tercera) [racingpasion.com]
   * [Gran Premio de Brasil 2007](http://f1dehoyydesiempre.blogspot.com/2007/10/gran-premio-de-brasil-2007.html) [f1 de hoy y de siempre]
   * [Räikkönen wins race and title in Brazil](http://www.autosport.com/news/report.php/id/63536) [autosport.com]
   * [Räikkönen sorprende a todos y le birla a McLaren el Mundial](http://www.formulaf1.es/80/raikkonen-sorprende-a-todos-y-le-birla-a-mclaren-el-mundial/) [fórmula f1]

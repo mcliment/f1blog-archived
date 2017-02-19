@@ -13,7 +13,7 @@ url: /2005/10/30/esa-boca-jenson/
 
 Como bien ha comentado el gran Nigel Mansell, Jenson, &#8220;si no tienes nada interesante que decir, mejor no digas nada&#8221;.
 
-Todo empezó un buen día que los chicos de FHM, revista seria y de fiable información, entrevistó por lo visto a Jenson, y entre las copillas y el cachondeo, dijo que aunque pilotos como [Danica Patrick](http://www.danicaracing.com/) o [Katherine Legge](http://www.gokatherine.com/) lo estén haciendo bien en formulas inferiores, no es lo mismo en la F1. Cito sus frases que no tienen desperdicio.
+Todo empezó un buen día que los chicos de FHM, revista seria y de fiable información, entrevistó por lo visto a Jenson, y entre las copillas y el cachondeo, dijo que aunque pilotos como [Danica Patrick](http://www.danicapatrick.com/) o [Katherine Legge](http://www.katherinelegge.com/) lo estén haciendo bien en formulas inferiores, no es lo mismo en la F1. Cito sus frases que no tienen desperdicio.
 
   * &#8220;Pero no veo que esto pueda pasar en la F1 debido a las grandes fuerzas G en los giros&#8221;
   * &#8220;Y durante una semana al mes no querrías estar en el circuito con ellas, ¿no?&#8221;

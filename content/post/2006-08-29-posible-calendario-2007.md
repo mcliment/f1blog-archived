@@ -42,4 +42,4 @@ Se han hecho eco tambien:
 
   * [FIA confirms 17-race calendar for 2007](http://www.crash.net/news_view.asp?cid=1&id=136404) [crash.net]
   * [2007 F1 Calendar](http://www.f1technical.net/news/3818) [f1technical.net]
-  * [Calendario 2007 de la Fórmula 1](http://www.motorpasion.com/archivos/2006/08/29-calendario-2007-de-la-formula.php) [motorpasion.com]
+  * [Calendario 2007 de la Fórmula 1](https://www.motorpasion.com/formula1/calendario-2007-de-la-formula-1) [motorpasion.com]

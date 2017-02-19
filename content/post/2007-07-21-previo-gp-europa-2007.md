@@ -29,7 +29,7 @@ Y hablando de temas políticos, la semana que viene se dará a conocer la decisi
 
 ![Circuito de Nürburgring](/files/2007/07/europa071.png)
 
-Pero dejando de lado estos asuntos, Nürburgring sigue siendo un circuito de carreras interesante, lejos ya de la locura del Nordschleife, un circuito de 22Km que los [pilotos de la época tardaban unos 8 minutos en recorrer](http://es.youtube.com/watch?v=n6aNnZ4q80s) (impresionante el video), si las condiciones eran buenas. Ahora está [abierto al público](http://www.nuerburgring.de/en/angebote/driving-experiences/tourist-rides-nordschleife.html) y los más osados pueden [dar una vueltecita](http://es.youtube.com/watch?v=AbqR-KmLJ_w) con su turismo por un módico precio.
+Pero dejando de lado estos asuntos, Nürburgring sigue siendo un circuito de carreras interesante, lejos ya de la locura del Nordschleife, un circuito de 22Km que los [pilotos de la época tardaban unos 8 minutos en recorrer](http://es.youtube.com/watch?v=n6aNnZ4q80s) (impresionante el video), si las condiciones eran buenas. Ahora está [abierto al público](https://www.greenhelldriving.nuerburgring.de/) y los más osados pueden [dar una vueltecita](http://es.youtube.com/watch?v=AbqR-KmLJ_w) con su turismo por un módico precio.
 
 Hay un par de puntos de adelantamiento que hacen de este circuito de acelerar-frenar entretenido para los espectadores. La chicane es un buen punto pues se viene de una zona rápida, pero si no se consigue, se puede seguir pegado en la curva Coca-Cola y coger el rebufo en la recta de meta para adelantar en la S de Castrol, que está en bajada y más de uno se puede pasar de frenada.
 

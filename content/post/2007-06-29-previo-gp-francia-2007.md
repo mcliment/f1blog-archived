@@ -35,6 +35,6 @@ Tiene un punto de adelantamiento en Adelaide, pero hay que coger un buen rebufo 
 
 Luego en la curva del Liceo, al final de la vuelta hay una chicane y una pequeña recta que con suerte se puede aprovechar. El final de Trulli en Renault vino marcado por la descomunal bronca que se ganó al ser adelantado en este tramo.
 
-Y eso es todo. Veremos qué tal se les da a los McLaren y a Hamilton este circuito y si como parece los Ferrari recuperan unas centésimas. Finalmente si no recuerdo mal Honda presenta bastantes mejoras que habrá que ver si surten efecto. Os dejo con [una vuelta de Alonso al circuito que me encontré en racingpasión](http://www.racingpasion.com/2007/06/26-una-vuelta-a-magny-cours-con-fernando-alonso).
+Y eso es todo. Veremos qué tal se les da a los McLaren y a Hamilton este circuito y si como parece los Ferrari recuperan unas centésimas. Finalmente si no recuerdo mal Honda presenta bastantes mejoras que habrá que ver si surten efecto. Os dejo con [una vuelta de Alonso al circuito que me encontré en racingpasión](https://www.motorpasion.com/formula1/una-vuelta-a-magny-cours-con-fernando-alonso).
 
 <p style="text-align: center">

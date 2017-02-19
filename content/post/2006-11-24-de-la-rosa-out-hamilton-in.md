@@ -34,5 +34,5 @@ En fin, suerte a todos y que les vaya muy bien 2007.
 
 Más información en:
 
-  * [Alonso-Hamilton, el &#8220;dream team&#8221; de McLaren](http://www.motorpasion.com/archivos/2006/11/24-alonso-hamilton-el-dream-tea.php) [motorpasion.com]
+  * [Alonso-Hamilton, el &#8220;dream team&#8221; de McLaren](https://www.motorpasion.com/formula1/alonso-hamilton-el-dream-team-de-mclaren) [motorpasion.com]
   * [Hamilton confirmed as Alonso&#8217;s teammate](http://www.autosport.com/news/report.php/id/55762) [autosport.com]

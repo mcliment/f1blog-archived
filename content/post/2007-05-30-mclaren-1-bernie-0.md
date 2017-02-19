@@ -22,7 +22,7 @@ url: /2007/05/30/mclaren-1-bernie-0/
 
 Aun no he entendido muy bien qué se pretendía con la investigación que se abrió a McLaren por los supuestos hechos del pasado gran premio de Mónaco.
 
-Por lo visto decidieron investigar si hubo algún tipo de órdenes de equipo que obligasen a Hamilton a reducir su ritmo para dejar ganar a Alonso. En mi opinión, la norma que aparece en el artículo 39.1 del [reglamento de esta temporada](http://www.fia.com/sport/Regulations/f1regs.html) sobre las órdenes de equipo me parece bastante ambigua. El artículo dice algo así (el original está en inglés y es el correcto):
+Por lo visto decidieron investigar si hubo algún tipo de órdenes de equipo que obligasen a Hamilton a reducir su ritmo para dejar ganar a Alonso. En mi opinión, la norma que aparece en el artículo 39.1 del [reglamento de esta temporada](https://web.archive.org/web/20070325201239/http://www.fia.com/sport/Regulations/f1regs.html) sobre las órdenes de equipo me parece bastante ambigua. El artículo dice algo así (el original está en inglés y es el correcto):
 
 > “Las órdenes de equipo que interfieran en el resultado de la carrera están prohibidas&#8221;
 
@@ -36,4 +36,4 @@ También he oído que atribuyen la investigación a dicha prensa, pero eso no ti
 
 El caso es que finalmente, Bernie se come sus palabras, la FIA dice que no hay motivo de sanción y las aguas vuelven a su cauce pero ahora queda ahí la amenaza y que no se le ocurra a nadie da órdenes de equipo. Queda dicho, la ira de Bernard caerá sobre ellos.
 
-Via > [Racingpasión](http://www.racingpasion.com/2007/05/30-la-fia-no-sanciona-a-mclaren-mercedes)
+Via > [Racingpasión](https://www.motorpasion.com/formula1/la-fia-no-sanciona-a-mclaren-mercedes)

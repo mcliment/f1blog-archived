@@ -19,7 +19,7 @@ title: Previo GP Bélgica 2007
 url: /2007/09/13/previo-gp-belgica-2007/
 ---
 
-¿Realmente a alguien le importa hoy el GP de Bélgica en el mundillo de la F1? Bueno, supongo que hoy hay [temas más importantes](http://www.racingpasion.com/2007/09/13-duro-castigo-para-mclaren-pero-sus-pilotos-se-libran) de los que hablar como por ejemplo la sanción de la FIA a McLaren, que se resume en:
+¿Realmente a alguien le importa hoy el GP de Bélgica en el mundillo de la F1? Bueno, supongo que hoy hay [temas más importantes](https://www.motorpasion.com/formula1/duro-castigo-para-mclaren-pero-sus-pilotos-se-libran) de los que hablar como por ejemplo la sanción de la FIA a McLaren, que se resume en:
 
   * Retirada de los puntos de esta temporada
   * Multa de $100M

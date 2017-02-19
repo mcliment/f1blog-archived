@@ -11,7 +11,7 @@ title: ¿Valencia sede de un GP?
 url: /2007/03/27/valencia-sede-de-un-gp/
 ---
 
-Hoy parece que es la noticia del día. La recogen los medios [generalistas](http://www.20minutos.es/noticia/216999/0/formulauno/Valencia/2009/) y también [la prensa](http://www.autosport.com/news/report.php/id/57649) y los [blogs especializados](http://www.racingpasion.com/2007/03/27-grandes-posibilidades-para-un-gp-en-valencia). Se comenta que se ha publicado ya oficialmente que van a empezar las obras y que está listo un acuerdo con Bernie.
+Hoy parece que es la noticia del día. La recogen los medios [generalistas](http://www.20minutos.es/noticia/216999/0/formulauno/Valencia/2009/) y también [la prensa](http://www.autosport.com/news/report.php/id/57649) y los [blogs especializados](https://www.motorpasion.com/formula1/grandes-posibilidades-para-un-gp-en-valencia). Se comenta que se ha publicado ya oficialmente que van a empezar las obras y que está listo un acuerdo con Bernie.
 
 Yo por mi parte, y desde mi modesta opinión, no me creo nada de Bernie, que sabe jugar muy bien sus cartas. En Valencia están en plena campaña electoral y que mejor que ofrecer circo a los votantes y seguro que el mandamás británico está al tanto del asunto.
 

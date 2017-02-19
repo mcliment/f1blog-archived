@@ -25,7 +25,7 @@ url: /2007/04/10/cronica-gp-malasia-2007/
 
 Cuando todo el mundo intuíamos que esta temporada podía ser un paseíto de los coches de rojo alrededor del mundo (bueno, quizás no tanto), una magistral carrera del dueto de McLaren tira las expectativas por la borda.
 
-Alonso ha estado bien, en la línea de lo que se espera de todo un campeón del mundo en vigor que quiere revalidar su título, pero lo de Hamilton es impresionante. Su impresionante y arriesgadísima salida desde el 4º puesto al 2º por el interior de la primera curva y su habilidad tapando huecos y forzando un error de Massa le han hecho [ganarse](http://www.racingpasion.com/2007/04/08-hamilton-simplemente-brillante) [multitud](http://www.motorpasion.com/2007/04/08-hamilton-no-es-el-novato) de [elogios](http://www.racingpasion.com/2007/04/08-galeria-de-lewis-hamilton-en-malasia), aunque el británico dice que ha sido [difícil para él](http://www.autosport.com/news/report.php/id/57919). Y por si era poco, marcó la vuelta rápida de 1:36:70 justo antes de la primera parada.
+Alonso ha estado bien, en la línea de lo que se espera de todo un campeón del mundo en vigor que quiere revalidar su título, pero lo de Hamilton es impresionante. Su impresionante y arriesgadísima salida desde el 4º puesto al 2º por el interior de la primera curva y su habilidad tapando huecos y forzando un error de Massa le han hecho [ganarse](https://www.motorpasion.com/formula1/hamilton-simplemente-brillante) [multitud](http://www.motorpasion.com/2007/04/08-hamilton-no-es-el-novato) de [elogios](https://www.motorpasion.com/formula1/galeria-de-lewis-hamilton-en-malasia), aunque el británico dice que ha sido [difícil para él](http://www.autosport.com/news/report.php/id/57919). Y por si era poco, marcó la vuelta rápida de 1:36:70 justo antes de la primera parada.
 
 A lo tonto, Alonso se ha puesto líder del mundial y McLaren lleva 9 puntos más que Ferrari. Y es que los de rojo no estuvieron muy acertados. La salida les sorprendió y Massa vió como su pole no le había servido de nada. Luego, se esforzó en pasar a Hamilton y realmente parecía bastante más rápido que el McLaren pero lo intentó en la curva 4 una vez y casi salió largo&#8230; lo intentó una segunda vez y se fue a la hierba como un novato que corre más de lo que puede. Cierto es que tenía que adelantarle para alcanzar a Alonso, pero uno debe ser consciente de los límites del coche y no ponerse nervioso. Esto le hizo perder posiciones y Kimi y Heidfeld le adelantaron. En realidad ahí acabó la carrera.
 
@@ -43,6 +43,6 @@ Así que este fin de semana más F1 en Bahréin y de momento la temporada pinta 
 
 Otros análisis:
 
-  * [Victoria de Alonso y doblete para McLaren](http://www.racingpasion.com/2007/04/08-victoria-de-alonso-y-doblete-para-mclaren) [racingpasion.com]
+  * [Victoria de Alonso y doblete para McLaren](https://www.motorpasion.com/formula1/victoria-de-alonso-y-doblete-para-mclaren) [racingpasion.com]
   * [Alonso leads McLaren 1-2 in Malaysia](http://www.autosport.com/news/report.php/id/57917) [autosport.com]
   * [Alonso gana en Malasia y es líder del campeonato](http://f1-poleposition.blogspot.com/2007/04/alonso-gana-en-malasia-y-es-lder-del.html) [F1 Pole Position]

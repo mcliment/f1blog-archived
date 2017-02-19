@@ -48,4 +48,4 @@ Así que nos vemos el dia 30 a la hora habitual en Alemania. Saludos.
 
 Otro punto de vista en:
 
-  * [Schumacher hace lo suyo, pero falla Ferrari](http://www.motorpasion.com/archivos/2006/07/16-schumacher-hace-lo-suyo-pero-.php) [motorpasion.com]
+  * [Schumacher hace lo suyo, pero falla Ferrari](https://www.motorpasion.com/formula1/schumacher-hace-lo-suyo-pero-falla-ferrari) [motorpasion.com]

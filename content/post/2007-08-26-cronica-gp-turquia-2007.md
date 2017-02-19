@@ -50,6 +50,6 @@ Y eso ha sido todo. Esperaba algo más de este GP pero bueno, de ilusión tambi�
 
 Otras crónicas:
 
-  * [Victoria de Massa y doblete para Ferrari](http://www.racingpasion.com/2007/08/26-victoria-de-massa-y-doblete-para-ferrari) [racingpasión.com]
+  * [Victoria de Massa y doblete para Ferrari](https://www.motorpasion.com/formula1/victoria-de-massa-y-doblete-para-ferrari) [racingpasión.com]
   * [Gran premio de Turquía 2007](http://f1dehoyydesiempre.blogspot.com/2007/08/gran-premio-de-turqua-2007.html) [f1 de hoy y de siempre]
   * [Massa celebrates &#8216;amazing&#8217; victor](http://www.autosport.com/news/report.php/id/61808)y [autosport.com]

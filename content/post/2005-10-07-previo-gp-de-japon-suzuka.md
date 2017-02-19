@@ -33,7 +33,7 @@ Y ahora si me permitís, voy a pasar un poco al tema técnico, que es el que má
   
 Para empezar, nada más acabar la larga recta vienen una serie de curvas. Primero la 1ª y la 2ª, que son 2 pero como si fueran una y enganchan con las curvas S hasta llegar a la curva Dunlop. Todas estas curvas están enlazadas de modo que la salida de una compromete la entrada de la siguiente y hay que ser muy preciso. Después va una bajada con un par de divertidas curvas a derechas que llevan de lleno a la curva Hairpin, muy cerrada de 180º. Luego se acelera a fondo en una rápida curva, la 200R para llegar a Spoon. Estas son 2 curvas seguidas muy complicadas en las que se puede uno salir fácilmente si no se va con cuidado. Esto lleva a la segunda recta del circuito que acaba en una de las curvas más famosas del Campeonato, la 130R, una increiblemente rápida curva a izquierdas. Luego hay que frenar fuerte para coger bien la chicane que desemboca de nuevo en la recta de meta.
   
-Es una vuelta muy entretenida y muy completa y recomiendo a todo el mundo que se dé una vueltecita en cualquier simulador que tenga a mano, ya sea de F1 o de cualquier cosa, como el [Gran Turismo 4](http://www.granturismoworld.com/).
+Es una vuelta muy entretenida y muy completa y recomiendo a todo el mundo que se dé una vueltecita en cualquier simulador que tenga a mano, ya sea de F1 o de cualquier cosa, como el [Gran Turismo 4](http://us.gran-turismo.com/es/products/gt4/).
 
 Ah, los horarios son, como siempre, de madrugada:
 

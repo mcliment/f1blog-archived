@@ -54,4 +54,4 @@ Otras crónicas:
   * [Alonso dominates the Italian GP](http://www.autosport.com/news/report.php/id/62199) [autosport.com]
   * [Monza 2007 - La crónica](http://cronicasf1.blogspot.com/2007/09/monza-2007-la-crnica.html) [Crónicas de Fórmula 1]
   * [Recital de Alonso](http://f1dehoyydesiempre.blogspot.com/2007/09/gran-premio-de-italia-2007.html) [F1 de hoy y de siempre]
-  * [Fernando Alonso puede con todos en Monza](http://www.racingpasion.com/2007/09/09-fernando-alonso-puede-con-todos-en-monza) [racingpasión.com]
+  * [Fernando Alonso puede con todos en Monza](https://www.motorpasion.com/formula1/fernando-alonso-puede-con-todos-en-monza) [racingpasión.com]

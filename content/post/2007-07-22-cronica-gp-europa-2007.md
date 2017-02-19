@@ -65,4 +65,4 @@ Otras crónicas:
   * [Carrera histórica en Nürburgring](http://www.motorpasion.com/2007/07/22-carrera-historica-en-nurburgring) [motorpasion.com]
   * [Alonso wins chaotic European GP](http://www.autosport.com/news/report.php/id/61047) [autosport.com]
   * [G.P. de Europa 2007](http://f1dehoyydesiempre.blogspot.com/2007/07/g-p-de-europa-2007.html) [f1 de hoy y de siempre]
-  * [El campeón gana y se desata en Nürburgring](http://www.racingpasion.com/2007/07/22-el-campeon-gana-y-se-desata-en-nurburgring) [racingpasion.com]
+  * [El campeón gana y se desata en Nürburgring](https://www.motorpasion.com/formula1/el-campeon-gana-y-se-desata-en-nurburgring) [racingpasion.com]

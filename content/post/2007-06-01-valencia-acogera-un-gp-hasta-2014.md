@@ -36,4 +36,4 @@ En fin, supongo que hoy me puedo alegrar y pensar en los aspectos positivos.
 
 Nos vemos en Canadá, si no ocurre nada más que últimamente siempre tengo algún tema sobre el que escribir.
 
-Via > [autosport.com](http://www.autosport.com/news/report.php/id/59321), [racingpasión.com](http://www.racingpasion.com/2007/06/01-firmado-el-acuerdo-que-traera-la-formula-1-a-valencia)
+Via > [autosport.com](http://www.autosport.com/news/report.php/id/59321), [racingpasión.com](https://www.motorpasion.com/formula1/firmado-el-acuerdo-que-traera-la-formula-1-a-valencia)
