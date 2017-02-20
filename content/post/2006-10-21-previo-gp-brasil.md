@@ -28,7 +28,7 @@ Me parece que hace cuatro días estaba escribiendo la previa del gran premio ina
 
 Brasil, hacía tiempo que no cerraba el calendario este circuito de Sao Paulo, que ha sido en muchas ocasiones el Gran Premio inaugural. Siempre trae recuerdos de Senna, con ese público tan devoto por su ídolo y esas carreras épicas llenas de agua. Parece que este año el tiempo andará tambien revuelto, ya veremos.
 
-![Circuito Brasil](/files/2006/10/brasil.png)
+![Circuito Brasil](/files/2006/10/Brasil.png)
 
 Muchas vueltas se han dado al tema de que si Alonso irá a ganar, si Schumi se centra en el campeonato de constructores, etc. En mi opinión, Alonso sabe manejar los puntos y sería estúpido por su parte perder el campeonato por un error suyo, así que tomará los riesgos justos y necesarios para puntuar de la mejor forma posible. Por su parte, Schumi puede decir misa que irá a por todas como siempre y a esperar que le pase algo al asturiano. Que todo es posible.
 

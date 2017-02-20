@@ -22,7 +22,7 @@ El ganador del año pasado Montoya no estará entre nosotros y hace ya dos tempo
 
 Por lo que parece la lluvia no estará presente, aunque estuvieron anunciando toda la semana que podría llover. Esto era un factor lotería, que aunque complica un poco las carreras (como en Hungría), da mucho juego y podría decantar el campeonato hacia uno u otro lado.
 
-![Circuito de Monza](/files/2006/09/italia.png)
+![Circuito de Monza](/files/2006/09/Italia.png)
 
 El circuito de Monza es como se ve, el más rápido del campeonato y eso que con los años se le han ido añadiendo chicanes (variantes como las llaman los italianos), para ralentizar un poco el tráfico.
 
