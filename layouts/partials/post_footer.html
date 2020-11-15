@@ -1,3 +1,4 @@
+{{ $scratch := newScratch }}
 {{ if isset .Params "tag" }}
 {{ $tagsLen := len .Params.tag }}
 {{ if gt $tagsLen 0 }}
@@ -25,16 +26,16 @@
 
 {{/* Using scratch to count matching comments, filtering by postId does not work */}}
 {{ $postId := .Params.id }}
-{{ $.Scratch.Set "cc" 0 }}
+{{ $scratch.Set "cc" 0 }}
 
 {{ range .Site.Data.comments.comment }}
     {{ if (eq $postId .postId) }}
-        {{ $curr := $.Scratch.Get "cc" }}
-        {{ $.Scratch.Set "cc" (add $curr 1) }}
+        {{ $curr := $scratch.Get "cc" }}
+        {{ $scratch.Set "cc" (add $curr 1) }}
     {{ end }}
 {{ end }}
 
-{{ $commentCount := $.Scratch.Get "cc" }}
+{{ $commentCount := $scratch.Get "cc" }}
 {{ if gt $commentCount 1}}
 | <a href="{{ .Permalink }}">{{ $commentCount }} comentarios »</a>
 {{ else if eq $commentCount 1}}

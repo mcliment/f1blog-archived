@@ -1,22 +1,23 @@
 {{ $postId := .Params.id }}
-{{ $.Scratch.Set "cc" 0 }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "ccount" 0 }}
 
 {{ range $idx, $comment := .Site.Data.comments.comment }}{{ if eq $comment.postId $postId }}
-    {{ $curr := $.Scratch.Get "cc" }}
-    {{ $.Scratch.Set "cc" (add $curr 1) }}   
+    {{ $curr := $scratch.Get "ccount" }}
+    {{ $scratch.Set "ccount" (add $curr 1) }}
 {{ end }}{{ end}}
 
+{{ $commentCount := $scratch.Get "ccount" }}
 
-{{ $commentCount := $.Scratch.Get "cc" }}
 <h3 id="comments">
     {{ if gt $commentCount 1 }}{{ $commentCount}} respuestas{{ else if eq $commentCount 1}}Una respuesta{{ else }}Sin respuestas {{ end }}
     a &#8220;{{ .Title }}&#8221;
-</h3> 
+</h3>
 
 <ol class="commentlist">
-{{ $.Scratch.Set "cc" 0 }}
+{{ $scratch.Set "cc" 0 }}
 {{ range $idx, $comment := sort .Site.Data.comments.comment "date" "asc" }}{{ if eq $comment.postId $postId }}
-    {{ $curr := $.Scratch.Get "cc" }}
+    {{ $curr := $scratch.Get "cc" }}
     <li class="{{ if (modBool $curr 2) }}alt{{ end }}" id="comment-{{ $comment.id }}">
         <cite>
             {{ if $comment.url }}<a href="{{ $comment.url }}">{{ $comment.author }}</a>
@@ -26,14 +27,14 @@
         <small class="commentmetadata">
             <a href="{{ .Permalink }}#comment-{{ $comment.id }}" title="">
                 {{ $date := $comment.date.Local }}
-                el {{ index $.Site.Data.weekdays (printf "%d" $date.Weekday) }} {{ $date.Day }} 
-                    de {{ index $.Site.Data.months (printf "%d" $date.Month) }} de {{ $date.Year }} 
+                el {{ index $.Site.Data.weekdays (printf "%d" $date.Weekday) }} {{ $date.Day }}
+                    de {{ index $.Site.Data.months (printf "%d" $date.Month) }} de {{ $date.Year }}
                     a las {{ dateFormat "15:04" $date }}
             </a>
         </small>
 
         <p>{{ replace $comment.content ";)" ":wink:" | markdownify | emojify }}</p>
     </li>
-    {{ $.Scratch.Set "cc" (add $curr 1) }}
+    {{ $scratch.Set "cc" (add $curr 1) }}
 {{ end }}{{ end }}
 </ol>

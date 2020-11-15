@@ -3,7 +3,7 @@ baseurl = "http://f1blog.climens.net"
 languageCode = "es"
 defaultContentLanguage = "es"
 # To keep taxonomies / titles like Wordpress
-preserveTaxonomyNames = true
+#preserveTaxonomyNames = true
 #pluralizeListTitles = false
 removePathAccents = true
 enableEmoji = true
@@ -11,6 +11,11 @@ enableEmoji = true
 title = "1 día en las carreras"
 
 paginate = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [taxonomies]
 tags = "tag"

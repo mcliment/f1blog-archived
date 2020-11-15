@@ -3,13 +3,13 @@
 {{ define "main" }}
 <div id="content" class="widecolumn">
     <div class="navigation">
-        {{ if .Position.PrevInSection }}
-        {{ with .Position.PrevInSection }}
+        {{ if .PrevInSection }}
+        {{ with .PrevInSection }}
         <div class="alignleft"><a rel="prev" href="{{ .Permalink }}">&laquo; {{ .Title }}</a></div>
         {{ end }}
         {{ end }}
-        {{ if .Position.NextInSection }}
-        {{ with .Position.NextInSection }}
+        {{ if .NextInSection }}
+        {{ with .NextInSection }}
         <div class="alignright"><a rel="next" href="{{ .Permalink }}">{{ .Title }} &raquo;</a></div>
         {{ end }}
         {{ end }}
@@ -23,8 +23,8 @@
             <p class="postmetadata alt">
                 <small>
                     Este post fue escrito
-                    el {{ index $.Site.Data.weekdays (printf "%d" .Date.Weekday) }} {{ .Date.Day }} 
-                    de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }} 
+                    el {{ index $.Site.Data.weekdays (printf "%d" .Date.Weekday) }} {{ .Date.Day }}
+                    de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }}
                     a las {{ dateFormat "15:04" .Date }}
                     en la categoría de
                     {{ if isset .Params "category" }}
@@ -38,8 +38,8 @@
             </p>
         </div>
     </div>
-		
+
     {{ partial "comments" . }}
-	
+
 </div>
 {{ end }}

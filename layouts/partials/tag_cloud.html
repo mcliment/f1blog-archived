@@ -1,12 +1,11 @@
 {{ if isset .Site.Taxonomies "tag" }}
 {{ if not (eq (len .Site.Taxonomies.tag) 0) }}
-    {{ range $name, $items := .Site.Taxonomies.tag }}
-    {{ if gt (len $items) 1 }}
-        {{ $scale := div 14.0 41 }}
-        {{ $url := printf "%s/%s/" "tag" ($name | urlize)}}
-        {{ $size := add 8 (mul (sub (len $items) 2) $scale) }}
-        <a href="{{ $url | relURL }}" class="{{ len $items }}-{{ $size }}" style="font-size: {{ $size }}pt;">{{ $name }}</a>
-    {{ end }}
+    {{ range .Site.Taxonomies.tag }}
+        {{ if gt .Count 1 }}
+            {{ $scale := div 14.0 41 }}
+            {{ $size := add 8 (mul (sub .Count 2) $scale) }}
+            <a href="{{ .Page.Permalink | relURL }}" class="{{ .Count }}-{{ $size }}" style="font-size: {{ $size }}pt;">{{ .Page.Title }}</a>
+        {{ end }}
     {{ end }}
 {{ end }}
 {{ end }}

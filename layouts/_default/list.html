@@ -1,6 +1,6 @@
-{{ define "title" }} :: 
-	{{ if eq .Data.Singular "category" }}{{ index $.Site.Data.categories .Title }}
-	{{ else if eq .Data.Singular "tags" }}{{ index $.Site.Data.tags .Title }}
+{{ define "title" }} ::
+	{{ if eq .Data.Singular "category" }}{{ .Data.Term }}
+	{{ else if eq .Data.Singular "tags" }}{{ .Data.Term }}
 	{{ else if gt .Data.Singular 2000 }}{{ .Data.Singular }} :: {{ index $.Site.Data.months .Title }}
 	{{ end }}
 {{ end }}
@@ -8,9 +8,9 @@
 {{ define "main" }}
 <div id="content" class="narrowcolumn">
     <h2>{{ if eq .Data.Singular "category" }}
-		Archivo de la categoría '{{ index $.Site.Data.categories .Title }}'
+		Archivo de la categoría '{{ .Data.Term }}'
 		{{ else if eq .Data.Singular "tags" }}
-		Archivo de la etiqueta '{{ index $.Site.Data.tags .Title }}'
+		Archivo de la etiqueta '{{ .Data.Term }}'
 		{{ else if gt .Data.Singular 2000 }}
 		Archivo de {{ index $.Site.Data.months .Title }} de {{ .Data.Singular }}
 		{{ end }}</h2>
@@ -32,7 +32,7 @@
 	<div class="post">
 		<h3><a href="{{ .Permalink }}" rel="bookmark" title="Permalink a {{ .Title }}">{{ .Title }}</a></h3>
 		<small>Publicado el {{ .Date.Day }} de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }} por <strong>{{ .Params.Author }}</strong></small>
-		
+
 		<div class="entry">
 			{{ .Content }}
 		</div>
