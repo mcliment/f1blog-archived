@@ -12,6 +12,11 @@ title = "1 día en las carreras"
 
 paginate = 3
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [taxonomies]
 tags = "tag"
 category = "category"
