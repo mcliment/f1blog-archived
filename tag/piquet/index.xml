@@ -1,42 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>piquet on 1 día en las carreras</title>
-    <link>http://f1blog.climens.net/tag/piquet/index.xml</link>
-    <description>Recent content in piquet on 1 día en las carreras</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <atom:link href="http://f1blog.climens.net/tag/piquet/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Los 11 mejores adelantamientos de F1</title>
-      <link>http://f1blog.climens.net/2007/02/25/los-11-mejores-adelantamientos-de-f1/</link>
-      <pubDate>Sun, 25 Feb 2007 22:28:50 +0000</pubDate>
-      
-      <guid>http://f1blog.climens.net/2007/02/25/los-11-mejores-adelantamientos-de-f1/</guid>
-      <description>&lt;p&gt;Hace tiempo ya que no escribía una entrada, la última fué para felicitar el año. La pretemporada la verdad que no ha traído grandes noticias y he estado ocupado con otros menesteres. Ahora ya queda menos de un mes para que empiece la temporada 2007 y va siendo hora de calentar motores.&lt;/p&gt;
-
-&lt;p&gt;Para ir abriendo boca, he encontrado en el blog de Historias del Motor (que además he añadido a los enlaces), un ránking de los 11 mejores adelantamientos (en Youtube), que la verdad está muy interesante.&lt;/p&gt;
-
-&lt;p&gt;Casi todos son bastante modernos, pero aun así el nº1 es realmente espectacular y tiene ya algunos añitos: 1986 - Piquet adelanta a Senna en Hungaroring. Impresionante derrapada del brasileño, imposible de conseguir en un coche moderno.&lt;/p&gt;
-
-&lt;p&gt;Fuente: &lt;a href=&#34;http://www.historiasdelmotor.com/2007/los-11-mejores-adelantamientos-de-la-formula-1/&#34;&gt;Los 11 mejores adelantamientos de la formula 1&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>F1 en YouTube</title>
-      <link>http://f1blog.climens.net/2006/11/13/f1-en-youtube/</link>
-      <pubDate>Mon, 13 Nov 2006 00:11:34 +0000</pubDate>
-      
-      <guid>http://f1blog.climens.net/2006/11/13/f1-en-youtube/</guid>
-      <description>&lt;p&gt;No soy muy dado a los refritos de web, pero es que este mes los chicos de &lt;strong&gt;F1 Racing&lt;/strong&gt;, una gran revista sobre F1 en español que recomiendo encarecidamente han hecho una selección de lo mejorcito de la F1 que se puede encontrar en &lt;a href=&#34;http://www.youtube.com&#34; title=&#34;YouTube&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Por si esto fuera poco, en &lt;a href=&#34;http://www.motorpasion.com&#34; title=&#34;Motorpasión&#34;&gt;&lt;strong&gt;Motorpasión&lt;/strong&gt;&lt;/a&gt; se han encargado de ponernos todos los enlaces a los vídeos en &lt;a href=&#34;http://www.motorpasion.com/archivos/2006/11/11-la-mejor-formula-1-de-youtube.php&#34; title=&#34;La mejor Formula 1 de Youtube&#34;&gt;una sola página&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Gracias a los dos y disfrutad de los videos. La verdad es que cada uno de ellos merece estar en la lista y en los comentarios de la gente hay alguno más.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Piquet on 1 día en las carreras</title><link>http://f1blog.climens.net/tag/piquet/</link><description>Recent content in Piquet on 1 día en las carreras</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Sun, 25 Feb 2007 22:28:50 +0000</lastBuildDate><atom:link href="http://f1blog.climens.net/tag/piquet/index.xml" rel="self" type="application/rss+xml"/><item><title>Los 11 mejores adelantamientos de F1</title><link>http://f1blog.climens.net/2007/02/25/los-11-mejores-adelantamientos-de-f1/</link><pubDate>Sun, 25 Feb 2007 22:28:50 +0000</pubDate><guid>http://f1blog.climens.net/2007/02/25/los-11-mejores-adelantamientos-de-f1/</guid><description>Hace tiempo ya que no escribía una entrada, la última fué para felicitar el año. La pretemporada la verdad que no ha traído grandes noticias y he estado ocupado con otros menesteres. Ahora ya queda menos de un mes para que empiece la temporada 2007 y va siendo hora de calentar motores.
+Para ir abriendo boca, he encontrado en el blog de Historias del Motor (que además he añadido a los enlaces), un ránking de los 11 mejores adelantamientos (en Youtube), que la verdad está muy interesante.</description></item><item><title>F1 en YouTube</title><link>http://f1blog.climens.net/2006/11/13/f1-en-youtube/</link><pubDate>Mon, 13 Nov 2006 00:11:34 +0000</pubDate><guid>http://f1blog.climens.net/2006/11/13/f1-en-youtube/</guid><description>No soy muy dado a los refritos de web, pero es que este mes los chicos de F1 Racing, una gran revista sobre F1 en español que recomiendo encarecidamente han hecho una selección de lo mejorcito de la F1 que se puede encontrar en YouTube.
+Por si esto fuera poco, en Motorpasión se han encargado de ponernos todos los enlaces a los vídeos en una sola página.
+Gracias a los dos y disfrutad de los videos.</description></item></channel></rss>
