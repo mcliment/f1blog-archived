@@ -1,12 +1,13 @@
 {{ $postId := .Params.id }}
-{{ $.Scratch.Set "ccount" 0 }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "ccount" 0 }}
 
 {{ range $idx, $comment := .Site.Data.comments.comment }}{{ if eq $comment.postId $postId }}
-    {{ $curr := $.Scratch.Get "ccount" }}
-    {{ $.Scratch.Set "ccount" (add $curr 1) }}
+    {{ $curr := $scratch.Get "ccount" }}
+    {{ $scratch.Set "ccount" (add $curr 1) }}
 {{ end }}{{ end}}
 
-{{ $commentCount := $.Scratch.Get "ccount" }}
+{{ $commentCount := $scratch.Get "ccount" }}
 
 <h3 id="comments">
     {{ if gt $commentCount 1 }}{{ $commentCount}} respuestas{{ else if eq $commentCount 1}}Una respuesta{{ else }}Sin respuestas {{ end }}
@@ -14,9 +15,9 @@
 </h3>
 
 <ol class="commentlist">
-{{ $.Scratch.Set "cc" 0 }}
+{{ $scratch.Set "cc" 0 }}
 {{ range $idx, $comment := sort .Site.Data.comments.comment "date" "asc" }}{{ if eq $comment.postId $postId }}
-    {{ $curr := $.Scratch.Get "cc" }}
+    {{ $curr := $scratch.Get "cc" }}
     <li class="{{ if (modBool $curr 2) }}alt{{ end }}" id="comment-{{ $comment.id }}">
         <cite>
             {{ if $comment.url }}<a href="{{ $comment.url }}">{{ $comment.author }}</a>
@@ -34,6 +35,6 @@
 
         <p>{{ replace $comment.content ";)" ":wink:" | markdownify | emojify }}</p>
     </li>
-    {{ $.Scratch.Set "cc" (add $curr 1) }}
+    {{ $scratch.Set "cc" (add $curr 1) }}
 {{ end }}{{ end }}
 </ol>
