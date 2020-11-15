@@ -1,4 +1,4 @@
-name: Build and poblish
+name: Build and publish
 
 on:
   push:
