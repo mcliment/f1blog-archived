@@ -3,7 +3,7 @@ baseurl = "http://f1blog.climens.net"
 languageCode = "es"
 defaultContentLanguage = "es"
 # To keep taxonomies / titles like Wordpress
-preserveTaxonomyNames = true
+#preserveTaxonomyNames = true
 #pluralizeListTitles = false
 removePathAccents = true
 enableEmoji = true
